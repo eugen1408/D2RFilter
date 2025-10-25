@@ -631,7 +631,7 @@
   {
     "id": 1959,
     "Key": "vgl",
-    "enUS": "Heavy Gloves",
+    "enUS": "hGloves",
     "zhTW": "厚皮手套",
     "deDE": "[pl]schwere Handschuhe",
     "esES": "[mp]Guantes pesados",
@@ -648,7 +648,7 @@
   {
     "id": 1960,
     "Key": "mgl",
-    "enUS": "Chain Gloves",
+    "enUS": "cGloves",
     "zhTW": "鍊甲手套",
     "deDE": "[pl]Kettenhandschuhe",
     "esES": "[mp]Guantes de malla",
@@ -665,7 +665,7 @@
   {
     "id": 1961,
     "Key": "tgl",
-    "enUS": "Light Gauntlets",
+    "enUS": "lGauntlets",
     "zhTW": "輕型護手",
     "deDE": "[pl]leichte Panzerhandschuhe",
     "esES": "[mp]Guanteletes ligeros",
@@ -682,7 +682,7 @@
   {
     "id": 1962,
     "Key": "hgl",
-    "enUS": "Gauntlets",
+    "enUS": "gauntlets",
     "zhTW": "鋼鐵護手",
     "deDE": "[pl]Panzerhandschuhe",
     "esES": "[mp]Guanteletes",
@@ -699,7 +699,7 @@
   {
     "id": 1963,
     "Key": "lbt",
-    "enUS": "Boots",
+    "enUS": "boots",
     "zhTW": "皮靴",
     "deDE": "[pl]Stiefel",
     "esES": "[fp]Botas",
@@ -716,7 +716,7 @@
   {
     "id": 1964,
     "Key": "vbt",
-    "enUS": "Heavy Boots",
+    "enUS": "hBoots",
     "zhTW": "重靴",
     "deDE": "[pl]schwere Stiefel",
     "esES": "[fp]Botas pesadas",
@@ -733,7 +733,7 @@
   {
     "id": 1965,
     "Key": "mbt",
-    "enUS": "Chain Boots",
+    "enUS": "cBoots",
     "zhTW": "鎖鍊靴",
     "deDE": "[pl]Kettenstiefel",
     "esES": "[fp]Botas de malla",
@@ -767,7 +767,7 @@
   {
     "id": 1967,
     "Key": "hbt",
-    "enUS": "Greaves",
+    "enUS": "greaves",
     "zhTW": "護脛",
     "deDE": "[pl]Beinschienen",
     "esES": "[fp]Grebas",
@@ -835,7 +835,7 @@
   {
     "id": 1971,
     "Key": "tbl",
-    "enUS": "Heavy Belt",
+    "enUS": "hBelt",
     "zhTW": "厚腰帶",
     "deDE": "[ms]schwerer Gürtel",
     "esES": "[ms]Cinturón pesado",
@@ -852,7 +852,7 @@
   {
     "id": 1972,
     "Key": "hbl",
-    "enUS": "Plated Belt",
+    "enUS": "pBelt",
     "zhTW": "鎧甲腰帶",
     "deDE": "[ms]Plattengürtel",
     "esES": "[ms]Cinturón de placas",
@@ -1413,7 +1413,7 @@
   {
     "id": 2005,
     "Key": "crs",
-    "enUS": "crystalSword",
+    "enUS": "crySword",
     "zhTW": "水晶劍",
     "deDE": "[ns]Kristallschwert",
     "esES": "[fs]Espada de cristal",
@@ -4660,7 +4660,7 @@
   {
     "id": 2200,
     "Key": "tsc",
-    "enUS": "ÿcPⅨ",
+    "enUS": "ÿcP§",
     "zhTW": "城鎮傳送卷軸",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": "ÿc1Ⅸ",
+    "enUS": "ÿc1§",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "Ⅷ",
+    "enUS": "¶",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "ÿcAⅧ",
+    "enUS": "ÿcA¶",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4745,7 +4745,7 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "ÿc;35Ⅷÿc0",
+    "enUS": "ÿc;35¶ÿc0",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
@@ -4762,7 +4762,7 @@
   {
     "id": 2210,
     "Key": "rvl",
-    "enUS": "ÿc;100Ⅷÿc0",
+    "enUS": "ÿc;100¶ÿc0",
     "zhTW": "全效活力藥水",
     "deDE": "starker Regenerationstrank",
     "esES": "Poción rejuvenecedora total",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "ÿcTⅧ",
+    "enUS": "ÿcT¶",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -4796,7 +4796,7 @@
   {
     "id": 2212,
     "Key": "amu",
-    "enUS": "•Ⅽ Amulet•",
+    "enUS": "★ Amulet",
     "zhTW": "護身符",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
@@ -4830,7 +4830,7 @@
   {
     "id": 2214,
     "Key": "rin",
-    "enUS": "•Ⅼ Ring•",
+    "enUS": "★ Ring",
     "zhTW": "戒指",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
@@ -4926,13 +4926,13 @@
     "esMX": "Saetas",
     "jaJP": "ボルト",
     "ptBR": "Setas",
-    "ruRU": "",
+    "ruRU": "[pl]арбалетные болты",
     "zhCN": "弩矢"
   },
   {
     "id": 2221,
     "Key": "Key",
-    "enUS": "Key",
+    "enUS": "‡",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -4949,7 +4949,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "Ⅺ",
+    "enUS": "‡",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -5561,7 +5561,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿcS1Ⅷÿc0",
+    "enUS": "ÿcS1¶ÿc0",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5578,7 +5578,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿcS2Ⅷÿc0",
+    "enUS": "ÿcS2¶ÿc0",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5595,7 +5595,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿcS3Ⅷÿc0",
+    "enUS": "ÿcS3¶ÿc0",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5612,7 +5612,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿcS4Ⅷÿc0",
+    "enUS": "ÿcS4¶ÿc0",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5629,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "ÿcS5Ⅷÿc0",
+    "enUS": "ÿcS5¶ÿc0",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5646,7 +5646,7 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "ÿcP1Ⅷÿc0",
+    "enUS": "ÿcP1¶ÿc0",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
@@ -5663,7 +5663,7 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "ÿcP2Ⅷÿc0",
+    "enUS": "ÿcP2¶ÿc0",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
@@ -5680,7 +5680,7 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "ÿcP3Ⅷÿc0",
+    "enUS": "ÿcP3¶ÿc0",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
@@ -5697,7 +5697,7 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "ÿcP4Ⅷÿc0",
+    "enUS": "ÿcP4¶ÿc0",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
@@ -5714,7 +5714,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "ÿcP5Ⅷÿc0",
+    "enUS": "ÿcP5¶ÿc0",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
@@ -16662,7 +16662,7 @@
   {
     "id": 20433,
     "Key": "jew",
-    "enUS": "•¾ Jewel•",
+    "enUS": "★ Jewel",
     "zhTW": "珠寶",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",

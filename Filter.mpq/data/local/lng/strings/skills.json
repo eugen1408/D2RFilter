@@ -10270,7 +10270,7 @@
   {
     "id": 4609,
     "Key": "skillname59",
-    "enUS": "Blizzard",
+    "enUS": "ÿcTBlizzardÿc3",
     "zhTW": "暴風雪",
     "deDE": "Blizzard",
     "esES": "Ventisca",
@@ -10321,7 +10321,7 @@
   {
     "id": 4612,
     "Key": "skillan59",
-    "enUS": "Blizzard",
+    "enUS": "ÿcTBlizzardÿc3",
     "zhTW": "暴風雪",
     "deDE": "Blizzard",
     "esES": "Ventisca",
@@ -10610,7 +10610,7 @@
   {
     "id": 4629,
     "Key": "skillname64",
-    "enUS": "Frozen Orb",
+    "enUS": "ÿcTFrozen Orbÿc3",
     "zhTW": "冰封球",
     "deDE": "Frostsphäre",
     "esES": "Orbe helado",
@@ -10661,7 +10661,7 @@
   {
     "id": 4632,
     "Key": "skillan64",
-    "enUS": "Frozen Orb",
+    "enUS": "ÿcTFrozen Orbÿc3",
     "zhTW": "冰封球",
     "deDE": "Frostsphäre",
     "esES": "Orbe helado",
@@ -10729,7 +10729,7 @@
   {
     "id": 4637,
     "Key": "skillname66",
-    "enUS": "ÿcS⅚ÿc3 Amplify Damage",
+    "enUS": "ÿcS•ÿc3 Amplify Damage",
     "zhTW": "傷害加深",
     "deDE": "Verstärkter Schaden",
     "esES": "Amplificar daño",
@@ -10933,7 +10933,7 @@
   {
     "id": 4649,
     "Key": "skillname69",
-    "enUS": "ÿc;¼ÿc3 Skeleton Mastery",
+    "enUS": "ÿc;Skeleton Masteryÿc3",
     "zhTW": "骷髏專精",
     "deDE": "Skelettbeherrschung",
     "esES": "Dominio de los esqueletos",
@@ -10984,7 +10984,7 @@
   {
     "id": 4652,
     "Key": "skillan69",
-    "enUS": "ÿc;¼ÿc3 Skeleton Mastery",
+    "enUS": "ÿc;Skeleton Masteryÿc3",
     "zhTW": "骷髏專精",
     "deDE": "Skelettbeherrschung",
     "esES": "Dominio de los esqueletos",
@@ -11001,7 +11001,7 @@
   {
     "id": 4653,
     "Key": "skillname70",
-    "enUS": "ÿc;¼ÿc3 Raise Skeleton",
+    "enUS": "ÿc;Raise Skeletonÿc3",
     "zhTW": "復生骷髏",
     "deDE": "Skelett erwecken",
     "esES": "Resurrección de esqueletos",
@@ -11052,7 +11052,7 @@
   {
     "id": 4656,
     "Key": "skillan70",
-    "enUS": "ÿc;¼ÿc3 Raise Skeleton",
+    "enUS": "ÿc;Raise Skeletonÿc3",
     "zhTW": "復生骷髏",
     "deDE": "Skelett erwecken",
     "esES": "Res. de esqueletos",
@@ -11681,7 +11681,7 @@
   {
     "id": 4693,
     "Key": "skillname80",
-    "enUS": "ÿc;¼ÿc3 Raise Skeletal Mage",
+    "enUS": "Raise Skeletal Mage",
     "zhTW": "復生骷髏法師",
     "deDE": "Skelettmagier erwecken",
     "esES": "Resurrección de magos esqueléticos",
@@ -11817,7 +11817,7 @@
   {
     "id": 4701,
     "Key": "skillname82",
-    "enUS": "ÿcSⅧÿc3 Life Tap",
+    "enUS": "ÿcS•ÿc3 Life Tap",
     "zhTW": "偷取生命",
     "deDE": "Lebensspender",
     "esES": "Transfusión de vida",
@@ -11868,7 +11868,7 @@
   {
     "id": 4704,
     "Key": "skillan82",
-    "enUS": "ÿcSⅧÿc3 Life Tap",
+    "enUS": "ÿcS•ÿc3 Life Tap",
     "zhTW": "偷取生命",
     "deDE": "Lebensspender",
     "esES": "Transfusión de vida",
@@ -12429,7 +12429,7 @@
   {
     "id": 4737,
     "Key": "skillname91",
-    "enUS": "ÿcSⅰÿc3 Lower Resist",
+    "enUS": "ÿcS•ÿc3 Lower Resist",
     "zhTW": "降低抗性",
     "deDE": "Widerstandsschwund",
     "esES": "Reducción de resistencia",
@@ -12480,7 +12480,7 @@
   {
     "id": 4740,
     "Key": "skillan91",
-    "enUS": "ÿcSⅰÿc3 Lower Resist",
+    "enUS": "ÿcS•ÿc3 Lower Resist",
     "zhTW": "降低抗性",
     "deDE": "Wid.-Schwund",
     "esES": "Red. de resistencia",
@@ -13177,7 +13177,7 @@
   {
     "id": 4781,
     "Key": "skillname102",
-    "enUS": "ÿcSⅰÿc3 Holy Fire",
+    "enUS": "ÿcS•ÿc3 Holy Fire",
     "zhTW": "神聖火焰",
     "deDE": "Heiliges Feuer",
     "esES": "Fuego sagrado",
@@ -13228,7 +13228,7 @@
   {
     "id": 4784,
     "Key": "skillan102",
-    "enUS": "ÿcSⅰÿc3 Holy Fire",
+    "enUS": "ÿcS•ÿc3 Holy Fire",
     "zhTW": "神聖火焰",
     "deDE": "Heiliges Feuer",
     "esES": "Fuego sagrado",
@@ -35005,7 +35005,7 @@
   {
     "id": 23045,
     "Key": "StrSkillHolyFireDamageRange",
-    "enUS": "ÿcSⅰÿc3 Holy Fire: %d-%d",
+    "enUS": "ÿcS•ÿc3 Holy Fire: %d-%d",
     "zhTW": "神聖火焰：%d - %d",
     "deDE": "Heiliges Feuer: %d-%d",
     "esES": "Fuego sagrado: %d-%d p.",
