@@ -614,7 +614,7 @@
   {
     "id": 1958,
     "Key": "lgl",
-    "enUS": "Leather Gloves",
+    "enUS": "lGloves",
     "zhTW": "皮革手套",
     "deDE": "[pl]Lederhandschuhe",
     "esES": "[mp]Guantes de cuero",
@@ -3062,7 +3062,7 @@
   {
     "id": 2104,
     "Key": "8mx",
-    "enUS": "Siege Crossbow!",
+    "enUS": "Siege Crossbow",
     "zhTW": "攻城弩",
     "deDE": "[fs]Belagerungsarmbrust",
     "esES": "[fs]Ballesta de asedio",
@@ -4660,7 +4660,7 @@
   {
     "id": 2200,
     "Key": "tsc",
-    "enUS": "ÿcP§",
+    "enUS": " ÿcP§ ",
     "zhTW": "城鎮傳送卷軸",
     "deDE": "Schriftrolle des Stadtportals",
     "esES": "Pergamino del portal de la ciudad",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": "ÿc1§",
+    "enUS": " ÿc1§ ",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -4711,7 +4711,7 @@
   {
     "id": 2207,
     "Key": "vps",
-    "enUS": "¶",
+    "enUS": " ¶ ",
     "zhTW": "精力藥水",
     "deDE": "Ausdauerelixier",
     "esES": "Poción de aguante",
@@ -4728,7 +4728,7 @@
   {
     "id": 2208,
     "Key": "yps",
-    "enUS": "ÿcA¶",
+    "enUS": " ÿcA¶ ",
     "zhTW": "解毒藥水",
     "deDE": "Gegengiftelixier",
     "esES": "Poción antídoto",
@@ -4779,7 +4779,7 @@
   {
     "id": 2211,
     "Key": "wms",
-    "enUS": "ÿcT¶",
+    "enUS": " ÿcT¶ ",
     "zhTW": "融冰藥水",
     "deDE": "Auftauelixier",
     "esES": "Poción descongelante",
@@ -4796,7 +4796,7 @@
   {
     "id": 2212,
     "Key": "amu",
-    "enUS": "★ Amulet",
+    "enUS": "••Amulet••",
     "zhTW": "護身符",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
@@ -4830,7 +4830,7 @@
   {
     "id": 2214,
     "Key": "rin",
-    "enUS": "★ Ring",
+    "enUS": "••Ring••",
     "zhTW": "戒指",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",
@@ -4932,7 +4932,7 @@
   {
     "id": 2221,
     "Key": "Key",
-    "enUS": "‡",
+    "enUS": " ‡ ",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -4949,7 +4949,7 @@
   {
     "id": 2222,
     "Key": "key",
-    "enUS": "‡",
+    "enUS": " ‡ ",
     "zhTW": "鑰匙",
     "deDE": "Schlüssel",
     "esES": "[fs]Llave",
@@ -16662,7 +16662,7 @@
   {
     "id": 20433,
     "Key": "jew",
-    "enUS": "★ Jewel",
+    "enUS": "••Jewel••",
     "zhTW": "珠寶",
     "deDE": "[ns]Juwel",
     "esES": "[fs]Joya",
