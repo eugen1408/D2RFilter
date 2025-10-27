@@ -4915,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "",
+    "enUS": "bolts",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
@@ -13721,7 +13721,7 @@
   {
     "id": 20253,
     "Key": "7sr",
-    "enUS": "•Hyperion Spear•",
+    "enUS": "•hypSpear•",
     "zhTW": "亥伯龍矛",
     "deDE": "[ms]Hyperionspeer",
     "esES": "[fs]Lanza de Hiperión",
