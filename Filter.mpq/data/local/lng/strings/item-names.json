@@ -2484,7 +2484,7 @@
   {
     "id": 2068,
     "Key": "xlb",
-    "enUS": "Demonhide Boots",
+    "enUS": "demBoots",
     "zhTW": "魔皮長靴",
     "deDE": "[pl]Dämonenlederstiefel",
     "esES": "[fp]Botas de cuero de demonio",
@@ -3011,7 +3011,7 @@
   {
     "id": 2101,
     "Key": "xap",
-    "enUS": "War Hat",
+    "enUS": "warHat",
     "zhTW": "戰帽",
     "deDE": "[ms]Kriegshut",
     "esES": "[fs]Cofia de guerra",
@@ -4694,7 +4694,7 @@
   {
     "id": 2202,
     "Key": "isc",
-    "enUS": " ÿc1§ ",
+    "enUS": " § ",
     "zhTW": "鑑定卷軸",
     "deDE": "Schriftrolle der Identifikation",
     "esES": "Pergamino de identificación",
@@ -5561,7 +5561,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿcS1¶ÿc0",
+    "enUS": "ÿcO1¶ÿc0",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5578,7 +5578,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿcS2¶ÿc0",
+    "enUS": "ÿcO2¶ÿc0",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5595,7 +5595,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿcS3¶ÿc0",
+    "enUS": "ÿcO3¶ÿc0",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5612,7 +5612,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿcS4¶ÿc0",
+    "enUS": "ÿcO4¶ÿc0",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5629,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "ÿcS5¶ÿc0",
+    "enUS": "ÿcO5¶ÿc0",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -13228,7 +13228,7 @@
   {
     "id": 20224,
     "Key": "7m7",
-    "enUS": "•Ogre Maul•",
+    "enUS": "•ogrMaul•",
     "zhTW": "巨魔重鎚",
     "deDE": "[ms]Ogerhammer",
     "esES": "[fs]Almádena de ogro",
@@ -13704,7 +13704,7 @@
   {
     "id": 20252,
     "Key": "7ts",
-    "enUS": "wHarpoon",
+    "enUS": "wHarp",
     "zhTW": "飛翼魚叉",
     "deDE": "[fs]Geflügelte Harpune",
     "esES": "[ms]Arpón alado",
@@ -26012,7 +26012,7 @@
   {
     "id": 27345,
     "Key": "Cold Rupture",
-    "enUS": "Cold Rupture",
+    "enUS": "ÿc7Cold Rupture",
     "zhTW": "冰寒裂縫",
     "deDE": "Der Kältespalt",
     "esES": "Ruptura fría",
