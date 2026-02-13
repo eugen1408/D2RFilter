@@ -6887,7 +6887,7 @@
   {
     "id": 4409,
     "Key": "skillname9",
-    "enUS": "Critical Strike",
+    "enUS": "ÿcPCritical Strikeÿc3",
     "zhTW": "致命攻勢",
     "deDE": "Kritischer Schlag",
     "esES": "Azote crítico",
@@ -9794,7 +9794,7 @@
   {
     "id": 4581,
     "Key": "skillname52",
-    "enUS": "ÿcSEnchantÿc3",
+    "enUS": "ÿcTEnchantÿc3",
     "zhTW": "附魔",
     "deDE": "Verzaubern",
     "esES": "Encantar",
@@ -9845,7 +9845,7 @@
   {
     "id": 4584,
     "Key": "skillan52",
-    "enUS": "ÿcSEnchantÿc3",
+    "enUS": "ÿcTEnchantÿc3",
     "zhTW": "附魔",
     "deDE": "Verzaubern",
     "esES": "Encantar",
@@ -10270,7 +10270,7 @@
   {
     "id": 4609,
     "Key": "skillname59",
-    "enUS": "ÿcTBlizzardÿc3",
+    "enUS": "ÿcOBlizzardÿc3",
     "zhTW": "暴風雪",
     "deDE": "Blizzard",
     "esES": "Ventisca",
@@ -10321,7 +10321,7 @@
   {
     "id": 4612,
     "Key": "skillan59",
-    "enUS": "ÿcTBlizzardÿc3",
+    "enUS": "ÿcOBlizzardÿc3",
     "zhTW": "暴風雪",
     "deDE": "Blizzard",
     "esES": "Ventisca",
@@ -10610,7 +10610,7 @@
   {
     "id": 4629,
     "Key": "skillname64",
-    "enUS": "ÿcTFrozen Orbÿc3",
+    "enUS": "ÿcOFrozen Orbÿc3",
     "zhTW": "冰封球",
     "deDE": "Frostsphäre",
     "esES": "Orbe helado",
@@ -10661,7 +10661,7 @@
   {
     "id": 4632,
     "Key": "skillan64",
-    "enUS": "ÿcTFrozen Orbÿc3",
+    "enUS": "ÿcOFrozen Orbÿc3",
     "zhTW": "冰封球",
     "deDE": "Frostsphäre",
     "esES": "Orbe helado",
@@ -10729,7 +10729,7 @@
   {
     "id": 4637,
     "Key": "skillname66",
-    "enUS": "ÿcS•ÿc3 Amplify Damage",
+    "enUS": "ÿcT•ÿc3 Amplify Damage",
     "zhTW": "傷害加深",
     "deDE": "Verstärkter Schaden",
     "esES": "Amplificar daño",
@@ -11817,7 +11817,7 @@
   {
     "id": 4701,
     "Key": "skillname82",
-    "enUS": "ÿcSLife Tapÿc3",
+    "enUS": "ÿcTLife Tapÿc3",
     "zhTW": "偷取生命",
     "deDE": "Lebensspender",
     "esES": "Transfusión de vida",
@@ -11868,7 +11868,7 @@
   {
     "id": 4704,
     "Key": "skillan82",
-    "enUS": "ÿcSLife Tapÿc3",
+    "enUS": "ÿcTLife Tapÿc3",
     "zhTW": "偷取生命",
     "deDE": "Lebensspender",
     "esES": "Transfusión de vida",
@@ -12429,7 +12429,7 @@
   {
     "id": 4737,
     "Key": "skillname91",
-    "enUS": "ÿcS•ÿc3 Lower Resist",
+    "enUS": "ÿc;•ÿc3 Lower Resist",
     "zhTW": "降低抗性",
     "deDE": "Widerstandsschwund",
     "esES": "Reducción de resistencia",
@@ -12480,7 +12480,7 @@
   {
     "id": 4740,
     "Key": "skillan91",
-    "enUS": "ÿcS•ÿc3 Lower Resist",
+    "enUS": "ÿcT•ÿc3 Lower Resist",
     "zhTW": "降低抗性",
     "deDE": "Wid.-Schwund",
     "esES": "Red. de resistencia",
@@ -12905,7 +12905,7 @@
   {
     "id": 4765,
     "Key": "skillname98",
-    "enUS": "Might",
+    "enUS": "ÿcPMightÿc3",
     "zhTW": "力量",
     "deDE": "Macht",
     "esES": "Poderío",
@@ -13177,7 +13177,7 @@
   {
     "id": 4781,
     "Key": "skillname102",
-    "enUS": "ÿcS•ÿc3 Holy Fire",
+    "enUS": "ÿcT•ÿc3 Holy Fire",
     "zhTW": "神聖火焰",
     "deDE": "Heiliges Feuer",
     "esES": "Fuego sagrado",
@@ -13228,7 +13228,7 @@
   {
     "id": 4784,
     "Key": "skillan102",
-    "enUS": "ÿcS•ÿc3 Holy Fire",
+    "enUS": "ÿcT•ÿc3 Holy Fire",
     "zhTW": "神聖火焰",
     "deDE": "Heiliges Feuer",
     "esES": "Fuego sagrado",
@@ -13925,7 +13925,7 @@
   {
     "id": 4825,
     "Key": "skillname113",
-    "enUS": "Concentration",
+    "enUS": "ÿcPConcentrationÿc3",
     "zhTW": "專注",
     "deDE": "Konzentration",
     "esES": "Concentración",
@@ -13993,7 +13993,7 @@
   {
     "id": 4829,
     "Key": "skillname114",
-    "enUS": "Holy Freeze",
+    "enUS": "ÿcUHoly Freezeÿc3",
     "zhTW": "神聖冰凍",
     "deDE": "Heiliger Frost",
     "esES": "Congelación sagrada",
@@ -14401,7 +14401,7 @@
   {
     "id": 4853,
     "Key": "skillname120",
-    "enUS": "Meditation",
+    "enUS": "ÿcOMeditationÿc3",
     "zhTW": "冥想",
     "deDE": "Meditation",
     "esES": "Meditación",
@@ -14537,7 +14537,7 @@
   {
     "id": 4861,
     "Key": "skillname122",
-    "enUS": "Fanaticism",
+    "enUS": "ÿcPFanaticismÿc3",
     "zhTW": "狂熱",
     "deDE": "Fanatismus",
     "esES": "Fanatismo",
@@ -14605,7 +14605,7 @@
   {
     "id": 4865,
     "Key": "skillname123",
-    "enUS": "Conviction",
+    "enUS": "ÿc;Convictionÿc3",
     "zhTW": "信念",
     "deDE": "Verurteilung",
     "esES": "Convicción",
@@ -14673,7 +14673,7 @@
   {
     "id": 4869,
     "Key": "skillname124",
-    "enUS": "Redemption",
+    "enUS": "ÿcORedemptionÿc3",
     "zhTW": "救贖",
     "deDE": "Erlösung",
     "esES": "Redención",
@@ -14741,7 +14741,7 @@
   {
     "id": 4873,
     "Key": "skillname125",
-    "enUS": "Salvation",
+    "enUS": "ÿc0Salvationÿc3",
     "zhTW": "聖護",
     "deDE": "Errettung",
     "esES": "Salvación",
@@ -16356,7 +16356,7 @@
   {
     "id": 4969,
     "Key": "skillname149",
-    "enUS": "Battle Orders",
+    "enUS": "ÿc8Battle Ordersÿc3",
     "zhTW": "戰鬥命令",
     "deDE": "Kampfbefehle",
     "esES": "Órdenes de batalla",
@@ -16764,7 +16764,7 @@
   {
     "id": 4993,
     "Key": "skillname155",
-    "enUS": "Battle Command",
+    "enUS": "ÿc8Battle Commandÿc3",
     "zhTW": "戰鬥指揮",
     "deDE": "Kampfaufruf",
     "esES": "Instrucción de batalla",
@@ -36552,7 +36552,7 @@
   {
     "id": 27444,
     "Key": "PsychicWardName",
-    "enUS": "Psychic Ward",
+    "enUS": "ÿcMPsychic Wardÿc3",
     "zhTW": "靈能護盾",
     "deDE": "Übersinnlicher Schutz",
     "esES": "Resguardo psíquico",
@@ -36960,7 +36960,7 @@
   {
     "id": 27468,
     "Key": "BladeWarpName",
-    "enUS": "Blade Warp",
+    "enUS": "ÿcMBlade Warpÿc3",
     "zhTW": "飛刃躍傳",
     "deDE": "Klingenteleportation",
     "esES": "Hoja de distorsión",
