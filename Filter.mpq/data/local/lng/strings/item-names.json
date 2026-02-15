@@ -12514,7 +12514,7 @@
   {
     "id": 20181,
     "Key": "ktr",
-    "enUS": "ktr",
+    "enUS": "Katar",
     "zhTW": "拳刃",
     "deDE": "[ms]Katar",
     "esES": "[ms]Katar",
@@ -12531,7 +12531,7 @@
   {
     "id": 20182,
     "Key": "wrb",
-    "enUS": "wrb",
+    "enUS": "Wrist Blade",
     "zhTW": "腕刃",
     "deDE": "[fs]Unterarmklinge",
     "esES": "[fs]Cuchilla de muñeca",
@@ -12548,7 +12548,7 @@
   {
     "id": 20183,
     "Key": "ces",
-    "enUS": "ces",
+    "enUS": "Cestus",
     "zhTW": "刃拳",
     "deDE": "[ms]Cestus",
     "esES": "[ms]Cestus",
@@ -12599,7 +12599,7 @@
   {
     "id": 20186,
     "Key": "skr",
-    "enUS": "sciKatar",
+    "enUS": "Scissors Katar",
     "zhTW": "剪刃",
     "deDE": "[ms]Scherenkatar",
     "esES": "[ms]Katar tijera",
@@ -12633,7 +12633,7 @@
   {
     "id": 20188,
     "Key": "9wb",
-    "enUS": "wspk",
+    "enUS": "Wrist Spike",
     "zhTW": "腕刺",
     "deDE": "[ms]Unterarmdorn",
     "esES": "[fs]Punta de muñeca",
@@ -12650,7 +12650,7 @@
   {
     "id": 20189,
     "Key": "9xf",
-    "enUS": "fas",
+    "enUS": "Fascia",
     "zhTW": "格鬥爪",
     "deDE": "[fs]Faszie",
     "esES": "[fs]Fascia",
@@ -12667,7 +12667,7 @@
   {
     "id": 20190,
     "Key": "9cs",
-    "enUS": "hsc",
+    "enUS": "Hand Scythe",
     "zhTW": "手鐮",
     "deDE": "[fs]Handsichel",
     "esES": "[fs]Guadaña de mano",
@@ -12718,7 +12718,7 @@
   {
     "id": 20193,
     "Key": "9qr",
-    "enUS": "sciQuhab",
+    "enUS": "Scissors Quhab",
     "zhTW": "格鬥剪刃",
     "deDE": "[ns]Scherenquhab",
     "esES": "[ms]Quhab tijera",
@@ -12769,7 +12769,7 @@
   {
     "id": 20196,
     "Key": "7xf",
-    "enUS": "wfist",
+    "enUS": "War Fist",
     "zhTW": "征戰拳套",
     "deDE": "[fs]Kriegsfaust",
     "esES": "[ms]Puño de guerra",
@@ -12786,7 +12786,7 @@
   {
     "id": 20197,
     "Key": "7cs",
-    "enUS": "bcest",
+    "enUS": "Battle Cestus",
     "zhTW": "戰鬥刃拳",
     "deDE": "[ms]Kampfcestus",
     "esES": "[ms]Cestus de batalla",
