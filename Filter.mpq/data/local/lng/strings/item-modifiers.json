@@ -478,7 +478,7 @@
   {
     "id": 3480,
     "Key": "ModStr1h",
-    "enUS": "ÿcP•%+d to Attack Rating•ÿc3",
+    "enUS": "ÿcP%+d to Attack Ratingÿc3",
     "zhTW": "%+d 準確率",
     "deDE": "%+d zu Angriffswert",
     "esES": "%+d de índice de ataque",
@@ -3929,7 +3929,7 @@
   {
     "id": 10981,
     "Key": "ModitemSMRIP",
-    "enUS": "ÿc4•Slain Monsters Rest in Peace•ÿc3",
+    "enUS": "ÿcMSlain Monsters Rest in Peaceÿc3",
     "zhTW": "殺死的怪物就此安息",
     "deDE": "Besiegte Monster ruhen in Frieden",
     "esES": "Los monstruos asesinados descansan en paz",
