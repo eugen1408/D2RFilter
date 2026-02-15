@@ -3028,7 +3028,7 @@
   {
     "id": 2102,
     "Key": "8rx",
-    "enUS": "Chu-Ko-Nu",
+    "enUS": "chu-ko-nu",
     "zhTW": "諸葛弩",
     "deDE": "[fs]Chu-Ko-Nu",
     "esES": "[ms]Chu-ko-nu",
@@ -3045,7 +3045,7 @@
   {
     "id": 2103,
     "Key": "8hx",
-    "enUS": "Ballista",
+    "enUS": "ballista",
     "zhTW": "砲弩",
     "deDE": "[fs]Balliste",
     "esES": "[fs]Balista",
@@ -3946,7 +3946,7 @@
   {
     "id": 2157,
     "Key": "9m9",
-    "enUS": "War Club",
+    "enUS": "wClub",
     "zhTW": "征戰重鎚",
     "deDE": "[fs]Kriegskeule",
     "esES": "[fs]Porra de guerra",
@@ -12225,7 +12225,7 @@
   {
     "id": 11006,
     "Key": "neg",
-    "enUS": "Hellspawn Skull",
+    "enUS": "•† hellspawn•",
     "zhTW": "地獄爪牙顱骨",
     "deDE": "[ms]Höllenbrutschädel",
     "esES": "[ms]Cráneo del averno",
@@ -12259,7 +12259,7 @@
   {
     "id": 11010,
     "Key": "7wa",
-    "enUS": "Berserker Axe",
+    "enUS": "•Berserker Axe•",
     "zhTW": "狂戰斧",
     "deDE": "[fs]Berserkeraxt",
     "esES": "[fs]Hacha de berserker",
@@ -13075,7 +13075,7 @@
   {
     "id": 20215,
     "Key": "7cl",
-    "enUS": "trun",
+    "enUS": "•trun•",
     "zhTW": "打擊棍",
     "deDE": "[ms]Schlagstock",
     "esES": "[fs]Tranca",
@@ -13143,7 +13143,7 @@
   {
     "id": 20219,
     "Key": "7sp",
-    "enUS": "•Tyrant Club•",
+    "enUS": "•tyrClub•",
     "zhTW": "暴君棍棒",
     "deDE": "[ms]Tyrannentöter",
     "esES": "[fs]Porra de tirano",
@@ -13160,7 +13160,7 @@
   {
     "id": 20220,
     "Key": "7ma",
-    "enUS": "rmace",
+    "enUS": "•rmace•",
     "zhTW": "強化釘鎚",
     "deDE": "[ms]Verstärkter Streitkolben",
     "esES": "[fs]Maza reforzada",
@@ -13177,7 +13177,7 @@
   {
     "id": 20221,
     "Key": "7mt",
-    "enUS": "devStar",
+    "enUS": "•devStar•",
     "zhTW": "妖鬼釘頭鎚",
     "deDE": "[ms]Teufelsstern",
     "esES": "[fs]Estrella diabólica",
@@ -14078,7 +14078,7 @@
   {
     "id": 20274,
     "Key": "6l7",
-    "enUS": "•Crusader Bow•",
+    "enUS": "•cruBow•",
     "zhTW": "聖教軍長弓",
     "deDE": "[ms]Kreuzritterbogen",
     "esES": "[ms]Arco de cruzada",
@@ -16322,7 +16322,7 @@
   {
     "id": 20406,
     "Key": "nea",
-    "enUS": "† Hierophant",
+    "enUS": "† hierophant",
     "zhTW": "祭司首級",
     "deDE": "Hierophanttrophäe",
     "esES": "[ms]Trofeo de hierofante",
@@ -26386,7 +26386,7 @@
   {
     "id": 27597,
     "Key": "wab",
-    "enUS": "æ fVol",
+    "enUS": "•æ fVol•",
     "zhTW": "被遺忘的書冊",
     "deDE": "[ms]Vergessener Band",
     "esES": "[ms]Volumen olvidado",
@@ -26403,7 +26403,7 @@
   {
     "id": 27598,
     "Key": "wac",
-    "enUS": "æ oTome",
+    "enUS": "•æ oTome•",
     "zhTW": "神秘秘典",
     "deDE": "[ms]Okkulter Foliant",
     "esES": "[ms]Tomo esotérico",
@@ -26420,7 +26420,7 @@
   {
     "id": 27599,
     "Key": "wad",
-    "enUS": "æ oCodex",
+    "enUS": "•æ oCodex•",
     "zhTW": "神秘寶典",
     "deDE": "[ms]Okkulter Kodex",
     "esES": "[ms]Códice esotérico",
@@ -26437,7 +26437,7 @@
   {
     "id": 27600,
     "Key": "wae",
-    "enUS": "æ bComp",
+    "enUS": "•æ bComp•",
     "zhTW": "褻瀆綱要",
     "deDE": "[ns]Blasphemisches Kompendium",
     "esES": "[ms]Compendio blasfemo",
@@ -26454,7 +26454,7 @@
   {
     "id": 27601,
     "Key": "waf",
-    "enUS": "æ bGrim",
+    "enUS": "•æ bGrim•",
     "zhTW": "褻瀆魔典",
     "deDE": "[ns]Blasphemisches Grimoire",
     "esES": "[ms]Grimorio blasfemo",
