@@ -512,7 +512,7 @@
   {
     "id": 3482,
     "Key": "ModStr1j",
-    "enUS": "ÿc0•ÿcTFireÿc0 Resist %+d%%•ÿc3",
+    "enUS": "ÿcT•Fireÿc0 Resist ÿcT%+d%%•ÿc3",
     "zhTW": "火焰抗性 %+d%%",
     "deDE": "Feuerwiderstand %+d%%",
     "esES": "%+d%% de resistencia al fuego",
@@ -529,7 +529,7 @@
   {
     "id": 3483,
     "Key": "ModStr1k",
-    "enUS": "ÿc0•ÿcUColdÿc0 Resist %+d%%•ÿc3",
+    "enUS": "ÿcU•Coldÿc0 Resist ÿcU%+d%%•ÿc3",
     "zhTW": "冰寒抗性 %+d%%",
     "deDE": "Kältewiderstand %+d%%",
     "esES": "%+d%% de resistencia al frío",
@@ -546,7 +546,7 @@
   {
     "id": 3484,
     "Key": "ModStr1l",
-    "enUS": "ÿc0•ÿc9Lightningÿc0 Resist %+d%%•ÿc3",
+    "enUS": "ÿc9•Lightningÿc0 Resist ÿc9%+d%%•ÿc3",
     "zhTW": "電擊抗性 %+d%%",
     "deDE": "Blitzwiderstand %+d%%",
     "esES": "%+d%% de resistencia a los rayos",
@@ -563,7 +563,7 @@
   {
     "id": 3485,
     "Key": "ModStr1m",
-    "enUS": "ÿc0•ÿc8Magicÿc0 Resist %+d%%•ÿc3",
+    "enUS": "ÿc8•Magicÿc0 Resist ÿc8%+d%%•ÿc3",
     "zhTW": "魔法抗性 %+d%%",
     "deDE": "Magiewiderstand %+d%%",
     "esES": "%+d%% de resistencia a la magia",
@@ -580,7 +580,7 @@
   {
     "id": 3486,
     "Key": "ModStr1n",
-    "enUS": "ÿc0•ÿcAPoisonÿc0 Resist %+d%%•ÿc3",
+    "enUS": "ÿcA•Poisonÿc0 Resist ÿcA%+d%%•ÿc3",
     "zhTW": "毒素抗性 %+d%%",
     "deDE": "Giftwiderstand %+d%%",
     "esES": "%+d%% de resistencia al veneno",
@@ -2331,7 +2331,7 @@
   {
     "id": 3595,
     "Key": "ModStr5u",
-    "enUS": "ÿc0%+d%% to Maximum ÿcTFireÿc0 Resistÿc3",
+    "enUS": "ÿcT%+d%%ÿc0 to Maximum ÿcTFireÿc0 Resistÿc3",
     "zhTW": "火焰抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Feuerwiderstand",
     "esES": "%+d%% de resistencia máxima al fuego",
@@ -2348,7 +2348,7 @@
   {
     "id": 3596,
     "Key": "ModStr5v",
-    "enUS": "ÿc0%+d%% to Maximum ÿcUColdÿc0 Resistÿc3",
+    "enUS": "ÿcU%+d%%ÿc0 to Maximum ÿcUColdÿc0 Resistÿc3",
     "zhTW": "冰寒抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Kältewiderstand",
     "esES": "%+d%% de resistencia máxima al frío",
@@ -2365,7 +2365,7 @@
   {
     "id": 3597,
     "Key": "ModStr5w",
-    "enUS": "ÿc0%+d%% to Maximum ÿc9Lightningÿc0 Resistÿc3",
+    "enUS": "ÿc9%+d%%ÿc0 to Maximum ÿc9Lightningÿc0 Resistÿc3",
     "zhTW": "電擊抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Blitzwiderstand",
     "esES": "%+d%% de resistencia máxima a los rayos",
@@ -2382,7 +2382,7 @@
   {
     "id": 3598,
     "Key": "ModStr5x",
-    "enUS": "ÿc0%+d%% to Maximum ÿc8Magicÿc0 Resistÿc3",
+    "enUS": "ÿc8%+d%%ÿc0 to Maximum ÿc8Magicÿc0 Resistÿc3",
     "zhTW": "魔法抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Magiewiderstand",
     "esES": "%+d%% de resistencia máxima a la magia",
@@ -2399,7 +2399,7 @@
   {
     "id": 3599,
     "Key": "ModStr5y",
-    "enUS": "ÿc0%+d%% to Maximum ÿcAPoisonÿc0 Resistÿc3",
+    "enUS": "ÿcA%+d%%ÿc0 to Maximum ÿcAPoisonÿc0 Resistÿc3",
     "zhTW": "毒素抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Giftwiderstand",
     "esES": "%+d%% de resistencia máxima al veneno",
@@ -6054,7 +6054,7 @@
   {
     "id": 27678,
     "Key": "ModStrMagMastery",
-    "enUS": "%+d%% to ÿc8Magicÿc3 Skill Damage",
+    "enUS": "ÿcN%+d%% to ÿc8MagicÿcN Skill Damageÿc3",
     "zhTW": "%+d%% 魔法技能傷害",
     "deDE": "%+d%% zu Magiefertigskeitschaden",
     "esES": "%+d%% de daño con habilidades mágicas",
@@ -6071,7 +6071,7 @@
   {
     "id": 27679,
     "Key": "ModStrMagPierce",
-    "enUS": "•-%d%% to Enemy ÿc8Magicÿc3 Resistance•",
+    "enUS": "ÿcN•-%d%% to Enemy ÿc8MagicÿcN Resistance•ÿc3",
     "zhTW": "敵人魔法抗性 -%d%%",
     "deDE": "-%d%% zu Magiewiderstand des Gegners",
     "esES": "-%d%% de resistencia enemiga a la magia",
@@ -6105,7 +6105,7 @@
   {
     "id": 27866,
     "Key": "ModStrDamPierce",
-    "enUS": "ÿc4•-%d%% to Enemy Physical Damage Resistance•ÿc3",
+    "enUS": "ÿcN•-%d%% to Enemy Physical Damage Resistance•ÿc3",
     "zhTW": "敵人物理傷害抗性 -%d%%",
     "deDE": "-%d%% zu Physischer-Schaden-Widerstand des Gegners",
     "esES": "-%d%% de resistencia enemiga al daño físico",

@@ -495,7 +495,7 @@
   {
     "id": 1754,
     "Key": "Rugged",
-    "enUS": "Rugged",
+    "enUS": "ÿcKRuggedÿc3",
     "zhTW": "粗獷",
     "deDE": "[fs]robuste[ms]robuster[ns]robustes[pl]robuste",
     "esES": "[fs]burda[ms]burdo[fp]burdas[mp]burdos",
@@ -2790,7 +2790,7 @@
   {
     "id": 1891,
     "Key": "of Greed",
-    "enUS": "of Greed",
+    "enUS": "ÿcKof Greedÿc3",
     "zhTW": "貪婪之",
     "deDE": "der Gier",
     "esES": "de codicia",
@@ -2960,7 +2960,7 @@
   {
     "id": 1901,
     "Key": "of Light",
-    "enUS": "of Light",
+    "enUS": "ÿcKof Lightÿc3",
     "zhTW": "光明之",
     "deDE": "des Lichtes",
     "esES": "de la luz",
@@ -8043,7 +8043,7 @@
   {
     "id": 20688,
     "Key": "Stout",
-    "enUS": "Stout",
+    "enUS": "ÿcKStoutÿc3",
     "zhTW": "牢固",
     "deDE": "[ms]kräftiger[fs]kräftige[ns]kräftiges[pl]kräftige",
     "esES": "[fs]maciza[ms]macizo[fp]macizas[mp]macizos",
@@ -8179,7 +8179,7 @@
   {
     "id": 20696,
     "Key": "Burly",
-    "enUS": "Burly",
+    "enUS": "ÿcKBurlyÿc3",
     "zhTW": "魁梧",
     "deDE": "[ms]stämmiger[fs]stämmige[ns]stämmiges[pl]stämmige",
     "esES": "[fs]fornida[ms]fornido[fp]fornidas[mp]fornidos",
@@ -11715,7 +11715,7 @@
   {
     "id": 20904,
     "Key": "Shimmering",
-    "enUS": "Shimmering",
+    "enUS": "ÿcNShimmeringÿc3",
     "zhTW": "閃耀",
     "deDE": "[ms]schimmernder[fs]schimmernde[ns]schimmerndes[pl]schimmernde",
     "esES": "[fs]reluciente[ms]reluciente[fp]relucientes[mp]relucientes",
@@ -13007,7 +13007,7 @@
   {
     "id": 20980,
     "Key": "of Vita",
-    "enUS": "of Vita",
+    "enUS": "ÿcNof Vitaÿc3",
     "zhTW": "活力之",
     "deDE": "der Vita",
     "esES": "de existencia",
@@ -13143,7 +13143,7 @@
   {
     "id": 20988,
     "Key": "of Good Luck",
-    "enUS": "of Good Luck",
+    "enUS": "ÿcNof Good Luckÿc3",
     "zhTW": "幸運之",
     "deDE": "des großen Glücks",
     "esES": "de la buena suerte",
