@@ -4881,7 +4881,7 @@
   {
     "id": 2218,
     "Key": "aqv",
-    "enUS": "arr",
+    "enUS": " Ĵ ",
     "zhTW": "弓矢",
     "deDE": "Pfeile",
     "esES": "[fp]Flechas",
@@ -4915,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "blt",
+    "enUS": " ¡ ",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
@@ -12276,7 +12276,7 @@
   {
     "id": 11012,
     "Key": "xhg",
-    "enUS": "•War Gauntlets•",
+    "enUS": "War Gauntlets",
     "zhTW": "征戰護手",
     "deDE": "Kriegspanzerhandschuhe",
     "esES": "[mp]Guanteletes de guerra",
@@ -12293,7 +12293,7 @@
   {
     "id": 11028,
     "Key": "9bl",
-    "enUS": "Stiletto",
+    "enUS": "æ Stiletto",
     "zhTW": "窄刃匕首",
     "deDE": "[ns]Stilett",
     "esES": "[ms]Stiletto",
@@ -12769,7 +12769,7 @@
   {
     "id": 20196,
     "Key": "7xf",
-    "enUS": "War Fist",
+    "enUS": "•War Fist•",
     "zhTW": "征戰拳套",
     "deDE": "[fs]Kriegsfaust",
     "esES": "[ms]Puño de guerra",
@@ -12786,7 +12786,7 @@
   {
     "id": 20197,
     "Key": "7cs",
-    "enUS": "Battle Cestus",
+    "enUS": "•Battle Cestus•",
     "zhTW": "戰鬥刃拳",
     "deDE": "[ms]Kampfcestus",
     "esES": "[ms]Cestus de batalla",
@@ -12854,7 +12854,7 @@
   {
     "id": 20201,
     "Key": "7ha",
-    "enUS": "Tomahawk",
+    "enUS": "•Tomahawk•",
     "zhTW": "輕斧",
     "deDE": "[ns]Tomahawk",
     "esES": "[ms]Tomahawk",
@@ -12871,7 +12871,7 @@
   {
     "id": 20202,
     "Key": "7ax",
-    "enUS": "Small Crescent",
+    "enUS": "•Small Crescent•",
     "zhTW": "彎月斧",
     "deDE": "[fs]Kleine Sichel",
     "esES": "[fs]Medialuna pequeña",
@@ -12888,7 +12888,7 @@
   {
     "id": 20203,
     "Key": "72a",
-    "enUS": "Ettin Axe",
+    "enUS": "•Ettin Axe•",
     "zhTW": "雙頭斧",
     "deDE": "[fs]Ettinaxt",
     "esES": "[fs]Hacha de Ettin",
@@ -12905,7 +12905,7 @@
   {
     "id": 20204,
     "Key": "7mp",
-    "enUS": "War Spike",
+    "enUS": "•War Spike•",
     "zhTW": "征戰鎬",
     "deDE": "[ms]Kriegsdorn",
     "esES": "[fs]Punta de guerra",
@@ -12922,7 +12922,7 @@
   {
     "id": 20206,
     "Key": "7la",
-    "enUS": "Feral Axe",
+    "enUS": "•Feral Axe•",
     "zhTW": "蠻野斧",
     "deDE": "[fs]Barbarenaxt",
     "esES": "[fs]Hacha feral",
@@ -12939,7 +12939,7 @@
   {
     "id": 20207,
     "Key": "7ba",
-    "enUS": "Silver-edged Axe",
+    "enUS": "•Silver-edged Axe•",
     "zhTW": "銀刃斧",
     "deDE": "Versilberte Axt",
     "esES": "[fs]Hacha de filo plateado",
@@ -13262,7 +13262,7 @@
   {
     "id": 20226,
     "Key": "7ss",
-    "enUS": "Falcata",
+    "enUS": "•Falcata•",
     "zhTW": "法卡塔劍",
     "deDE": "[fs]Falkata",
     "esES": "[fs]Falcata",
@@ -13279,7 +13279,7 @@
   {
     "id": 20227,
     "Key": "7sm",
-    "enUS": "Ataghan",
+    "enUS": "•Ataghan•",
     "zhTW": "土耳其彎刀",
     "deDE": "[ns]Yatagan",
     "esES": "[ms]Yatagán",
@@ -13296,7 +13296,7 @@
   {
     "id": 20228,
     "Key": "7sb",
-    "enUS": "Elegant Blade",
+    "enUS": "•Elegant Blade•",
     "zhTW": "典雅彎刀",
     "deDE": "[fs]Elegante Klinge",
     "esES": "[fs]Espada elegante",
@@ -13313,7 +13313,7 @@
   {
     "id": 20229,
     "Key": "7fc",
-    "enUS": "Hydra Edge",
+    "enUS": "•Hydra Edge•",
     "zhTW": "多頭蛇刃",
     "deDE": "[fs]Hydraschneide",
     "esES": "[ms]Filo de hidra",
@@ -13398,7 +13398,7 @@
   {
     "id": 20234,
     "Key": "72h",
-    "enUS": "Legend Sword",
+    "enUS": "•Legend Sword•",
     "zhTW": "傳說劍",
     "deDE": "[ns]Legendenschwert",
     "esES": "[fs]Espada de leyenda",
@@ -13568,7 +13568,7 @@
   {
     "id": 20244,
     "Key": "7tk",
-    "enUS": "Flying Knife",
+    "enUS": "•Flying Knife•",
     "zhTW": "高速飛刀",
     "deDE": "[ns]Wurfmesser",
     "esES": "[ms]Cuchillo volador",
@@ -13585,7 +13585,7 @@
   {
     "id": 20245,
     "Key": "7ta",
-    "enUS": "Flying Axe",
+    "enUS": "•Flying Axe•",
     "zhTW": "高速飛斧",
     "deDE": "[fs]Flugaxt",
     "esES": "[fs]Hacha voladora",
@@ -13602,7 +13602,7 @@
   {
     "id": 20246,
     "Key": "7bk",
-    "enUS": "Winged Knife",
+    "enUS": "•Winged Knife•",
     "zhTW": "刃翼飛刀",
     "deDE": "[ms]Schwingendolch",
     "esES": "[ms]Cuchillo alado",
@@ -13619,7 +13619,7 @@
   {
     "id": 20247,
     "Key": "7b8",
-    "enUS": "Winged Axe",
+    "enUS": "•Winged Axe•",
     "zhTW": "刃翼飛斧",
     "deDE": "[fs]Schwingenaxt",
     "esES": "[fs]Hacha alada",
@@ -13636,7 +13636,7 @@
   {
     "id": 20248,
     "Key": "7ja",
-    "enUS": "Hyperion Javelin",
+    "enUS": "•Hyperion Javelin•",
     "zhTW": "亥伯龍標槍",
     "deDE": "[ms]Hyperionwurfspieß",
     "esES": "[fs]Jabalina de Hiperión",
@@ -13653,7 +13653,7 @@
   {
     "id": 20249,
     "Key": "7pi",
-    "enUS": "Stygian Pilum",
+    "enUS": "•Stygian Pilum•",
     "zhTW": "冥河標槍",
     "deDE": "[ms]Stygischer Spieß",
     "esES": "[ms]Pilum estigio",
@@ -13670,7 +13670,7 @@
   {
     "id": 20250,
     "Key": "7s7",
-    "enUS": "Balrog Spear",
+    "enUS": "•Balrog Spear•",
     "zhTW": "炎魔長矛",
     "deDE": "[ms]Balrogspeer",
     "esES": "[fs]Lanza de Balrog",
@@ -13687,7 +13687,7 @@
   {
     "id": 20251,
     "Key": "7gl",
-    "enUS": "Ghost Glaive",
+    "enUS": "•Ghost Glaive•",
     "zhTW": "鬼魂刃槍",
     "deDE": "[fs]Geistergleve",
     "esES": "[fs]Guja fantasmal",
@@ -13704,7 +13704,7 @@
   {
     "id": 20252,
     "Key": "7ts",
-    "enUS": "Winged Harpoon",
+    "enUS": "•Winged Harpoon•",
     "zhTW": "飛翼魚叉",
     "deDE": "[fs]Geflügelte Harpune",
     "esES": "[ms]Arpón alado",
@@ -14129,7 +14129,7 @@
   {
     "id": 20277,
     "Key": "6lx",
-    "enUS": "Pellet Bow",
+    "enUS": "•Pellet Bow•",
     "zhTW": "彈丸弩",
     "deDE": "[ms]Kugelbogen",
     "esES": "[ms]Arco de perdigones",
@@ -14146,7 +14146,7 @@
   {
     "id": 20278,
     "Key": "6mx",
-    "enUS": "Gorgon Crossbow",
+    "enUS": "•Gorgon Crossbow•",
     "zhTW": "蛇魔弩",
     "deDE": "[fs]Gorgonenarmbrust",
     "esES": "[fs]Ballesta de gorgona",
@@ -14163,7 +14163,7 @@
   {
     "id": 20279,
     "Key": "6hx",
-    "enUS": "Colossus Crossbow",
+    "enUS": "•Colossus Crossbow•",
     "zhTW": "巨神弩",
     "deDE": "[fs]Kolossarmbrust",
     "esES": "[fs]Ballesta del coloso",
@@ -14180,7 +14180,7 @@
   {
     "id": 20280,
     "Key": "6rx",
-    "enUS": "Demon Crossbow",
+    "enUS": "•Demon Crossbow•",
     "zhTW": "惡魔弩",
     "deDE": "[fs]Dämonenarmbrust",
     "esES": "[fs]Ballesta del demonio",
@@ -15234,7 +15234,7 @@
   {
     "id": 20342,
     "Key": "ukp",
-    "enUS": "Hydraskull",
+    "enUS": "•Hydraskull•",
     "zhTW": "多頭蛇顱盔",
     "deDE": "[ms]Hydraschädel",
     "esES": "[ms]Cráneo de hidra",
@@ -15251,7 +15251,7 @@
   {
     "id": 20343,
     "Key": "ulm",
-    "enUS": "Armet",
+    "enUS": "•Armet•",
     "zhTW": "覆頰盔",
     "deDE": "[ns]Armet",
     "esES": "[ms]Almete",
@@ -15268,7 +15268,7 @@
   {
     "id": 20344,
     "Key": "uhl",
-    "enUS": "Giant Conch",
+    "enUS": "•Giant Conch•",
     "zhTW": "巨螺盔",
     "deDE": "[fs]Riesenmuschel",
     "esES": "[fs]Valva gigante",
@@ -15591,7 +15591,7 @@
   {
     "id": 20363,
     "Key": "uuc",
-    "enUS": "Heater",
+    "enUS": "•Heater•",
     "zhTW": "斗盾",
     "deDE": "[ms]Manesseschild",
     "esES": "[ms]Calentador",
@@ -15608,7 +15608,7 @@
   {
     "id": 20364,
     "Key": "uml",
-    "enUS": "Luna",
+    "enUS": "•Luna•",
     "zhTW": "圓月盾",
     "deDE": "[fs]Luna",
     "esES": "[fs]Luna",
@@ -15625,7 +15625,7 @@
   {
     "id": 20365,
     "Key": "urg",
-    "enUS": "Hyperion",
+    "enUS": "•Hyperion•",
     "zhTW": "亥伯龍盾",
     "deDE": "[ms]Hyperion",
     "esES": "[ms]Hiperión",
@@ -15676,7 +15676,7 @@
   {
     "id": 20368,
     "Key": "uts",
-    "enUS": "Ward",
+    "enUS": "•Ward•",
     "zhTW": "庇護盾",
     "deDE": "[ms]Schutz",
     "esES": "[fs]Custodia",
@@ -15693,7 +15693,7 @@
   {
     "id": 20369,
     "Key": "ulg",
-    "enUS": "Bramble Mitts",
+    "enUS": "•Bramble Mitts•",
     "zhTW": "荊棘手套",
     "deDE": "[pl]Dornenhandschuhe",
     "esES": "[mp]Mitones de zarza",
@@ -15710,7 +15710,7 @@
   {
     "id": 20370,
     "Key": "uvg",
-    "enUS": "Vampirebone Gloves",
+    "enUS": "•Vampirebone Gloves•",
     "zhTW": "吸血鬼骸骨手套",
     "deDE": "[pl]Vampirknochenhandschuhe",
     "esES": "[mp]Guantes de hueso de vampiro",
@@ -15727,7 +15727,7 @@
   {
     "id": 20371,
     "Key": "umg",
-    "enUS": "Vambraces",
+    "enUS": "•Vambraces•",
     "zhTW": "護臂",
     "deDE": "[pl]Vampirschienen",
     "esES": "[mp]Avambrazos",
@@ -15744,7 +15744,7 @@
   {
     "id": 20372,
     "Key": "utg",
-    "enUS": "Crusader Gauntlets",
+    "enUS": "•Crusader Gauntlets•",
     "zhTW": "聖教軍護手",
     "deDE": "[pl]Kreuzritterhandschuhe",
     "esES": "[mp]Guanteletes de cruzada",
@@ -15761,7 +15761,7 @@
   {
     "id": 20373,
     "Key": "uhg",
-    "enUS": "Ogre Gauntlets",
+    "enUS": "•Ogre Gauntlets•",
     "zhTW": "巨魔護手",
     "deDE": "[pl]Ogerhandschuhe",
     "esES": "[mp]Guanteletes de ogro",
@@ -15778,7 +15778,7 @@
   {
     "id": 20374,
     "Key": "ulb",
-    "enUS": "Wyrmhide Boots",
+    "enUS": "•Wyrmhide Boots•",
     "zhTW": "龍皮靴",
     "deDE": "[pl]Wyrmlederstiefel",
     "esES": "[fp]Botas de cuero de vermis",
@@ -15795,7 +15795,7 @@
   {
     "id": 20375,
     "Key": "uvb",
-    "enUS": "Scarabshell Boots",
+    "enUS": "•Scarabshell Boots•",
     "zhTW": "聖甲蟲殼皮靴",
     "deDE": "[pl]Skarabäusschalenstiefel",
     "esES": "[fp]Botas de élitro de alfazaque",
@@ -15812,7 +15812,7 @@
   {
     "id": 20376,
     "Key": "umb",
-    "enUS": "Boneweave Boots",
+    "enUS": "•Boneweave Boots•",
     "zhTW": "骸骨網靴",
     "deDE": "[pl]Knochengespinststiefel",
     "esES": "[fp]Botas de hueso",
@@ -15829,7 +15829,7 @@
   {
     "id": 20377,
     "Key": "utb",
-    "enUS": "Mirrored Boots",
+    "enUS": "•Mirrored Boots•",
     "zhTW": "幻鏡戰靴",
     "deDE": "[pl]Verspiegelte Stiefel",
     "esES": "[fp]Botas de espejo",
@@ -15846,7 +15846,7 @@
   {
     "id": 20378,
     "Key": "uhb",
-    "enUS": "Myrmidon Greaves",
+    "enUS": "•Myrmidon Greaves•",
     "zhTW": "勇士護脛",
     "deDE": "[fs]Myrmidonbeinschienen",
     "esES": "[fp]Grebas de mirmidón",
@@ -15880,7 +15880,7 @@
   {
     "id": 20380,
     "Key": "uvc",
-    "enUS": "Vampirefang Belt",
+    "enUS": "•Vampirefang Belt•",
     "zhTW": "吸血鬼牙腰帶",
     "deDE": "[ms]Vampirzahngürtel",
     "esES": "[ms]Cinturón de colmillo de vampiro",
@@ -15897,7 +15897,7 @@
   {
     "id": 20381,
     "Key": "umc",
-    "enUS": "Mithril Coil",
+    "enUS": "•Mithril Coil•",
     "zhTW": "秘銀腰帶",
     "deDE": "[fs]Mithrilrolle",
     "esES": "[fs]Rosca de mithril",
@@ -15914,7 +15914,7 @@
   {
     "id": 20382,
     "Key": "utc",
-    "enUS": "Troll Belt",
+    "enUS": "•Troll Belt•",
     "zhTW": "食人妖腰帶",
     "deDE": "[ms]Trollgürtel",
     "esES": "[ms]Cinturón de trol",
@@ -15982,7 +15982,7 @@
   {
     "id": 20386,
     "Key": "upk",
-    "enUS": "Blade Barrier",
+    "enUS": "•Blade Barrier•",
     "zhTW": "刀刃刺盾",
     "deDE": "[fs]Klingenbarriere",
     "esES": "[fs]Barrera tajante",
@@ -16696,7 +16696,7 @@
   {
     "id": 20435,
     "Key": "cm1",
-    "enUS": "Small Charm",
+    "enUS": "ÿc;Small Charmÿc3\n•Pick Up•\n",
     "zhTW": "小型咒符",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
@@ -21846,7 +21846,7 @@
   },
   {
     "id": 21576,
-    "Key": "ÿc7Gheed's Fortune",
+    "Key": "Gheed's Fortune",
     "enUS": "ÿc7Gheed's Fortune",
     "zhTW": "基德的財運",
     "deDE": "Gheeds Glück",

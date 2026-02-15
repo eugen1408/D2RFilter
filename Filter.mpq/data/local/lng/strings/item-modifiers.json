@@ -512,7 +512,7 @@
   {
     "id": 3482,
     "Key": "ModStr1j",
-    "enUS": "ÿcT•Fireÿc0 Resist ÿcT%+d%%•ÿc3",
+    "enUS": "ÿc0Resist ÿcTFire %+d%%ÿc3",
     "zhTW": "火焰抗性 %+d%%",
     "deDE": "Feuerwiderstand %+d%%",
     "esES": "%+d%% de resistencia al fuego",
@@ -529,7 +529,7 @@
   {
     "id": 3483,
     "Key": "ModStr1k",
-    "enUS": "ÿcU•Coldÿc0 Resist ÿcU%+d%%•ÿc3",
+    "enUS": "ÿc0Resist ÿcUCold %+d%%ÿc3",
     "zhTW": "冰寒抗性 %+d%%",
     "deDE": "Kältewiderstand %+d%%",
     "esES": "%+d%% de resistencia al frío",
@@ -546,7 +546,7 @@
   {
     "id": 3484,
     "Key": "ModStr1l",
-    "enUS": "ÿc9•Lightningÿc0 Resist ÿc9%+d%%•ÿc3",
+    "enUS": "ÿc0Resist ÿc9Lightning %+d%%ÿc3",
     "zhTW": "電擊抗性 %+d%%",
     "deDE": "Blitzwiderstand %+d%%",
     "esES": "%+d%% de resistencia a los rayos",
@@ -563,7 +563,7 @@
   {
     "id": 3485,
     "Key": "ModStr1m",
-    "enUS": "ÿc8•Magicÿc0 Resist ÿc8%+d%%•ÿc3",
+    "enUS": "ÿc0Resist ÿc8Magic %+d%%ÿc3",
     "zhTW": "魔法抗性 %+d%%",
     "deDE": "Magiewiderstand %+d%%",
     "esES": "%+d%% de resistencia a la magia",
@@ -580,7 +580,7 @@
   {
     "id": 3486,
     "Key": "ModStr1n",
-    "enUS": "ÿcA•Poisonÿc0 Resist ÿcA%+d%%•ÿc3",
+    "enUS": "ÿc0Resist ÿcAPoison %+d%%ÿc3",
     "zhTW": "毒素抗性 %+d%%",
     "deDE": "Giftwiderstand %+d%%",
     "esES": "%+d%% de resistencia al veneno",
@@ -2093,7 +2093,7 @@
   {
     "id": 3580,
     "Key": "ModStr5f",
-    "enUS": "ÿcM•%+d to ÿcOManaÿcM after each Kill•ÿc3",
+    "enUS": "ÿcM%+d to ÿcOManaÿcM after each Killÿc3",
     "zhTW": "%+d 擊殺法力恢復",
     "deDE": "%+d zu Mana nach jedem Kill",
     "esES": "%+d p. de maná tras cada asesinato",
@@ -2331,7 +2331,7 @@
   {
     "id": 3595,
     "Key": "ModStr5u",
-    "enUS": "ÿcT%+d%%ÿc0 to Maximum ÿcTFireÿc0 Resistÿc3",
+    "enUS": "ÿc0Maximum Resist ÿcTFire %+d%%ÿc3",
     "zhTW": "火焰抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Feuerwiderstand",
     "esES": "%+d%% de resistencia máxima al fuego",
@@ -2348,7 +2348,7 @@
   {
     "id": 3596,
     "Key": "ModStr5v",
-    "enUS": "ÿcU%+d%%ÿc0 to Maximum ÿcUColdÿc0 Resistÿc3",
+    "enUS": "ÿc0Maximum Resist ÿcUCold %+d%%ÿc3",
     "zhTW": "冰寒抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Kältewiderstand",
     "esES": "%+d%% de resistencia máxima al frío",
@@ -2365,7 +2365,7 @@
   {
     "id": 3597,
     "Key": "ModStr5w",
-    "enUS": "ÿc9%+d%%ÿc0 to Maximum ÿc9Lightningÿc0 Resistÿc3",
+    "enUS": "ÿc0Maximum Resist ÿc9Lightning %+d%%ÿc3",
     "zhTW": "電擊抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Blitzwiderstand",
     "esES": "%+d%% de resistencia máxima a los rayos",
@@ -2382,7 +2382,7 @@
   {
     "id": 3598,
     "Key": "ModStr5x",
-    "enUS": "ÿc8%+d%%ÿc0 to Maximum ÿc8Magicÿc0 Resistÿc3",
+    "enUS": "ÿc0Maximum Resist ÿc8Magic %+d%%ÿc3",
     "zhTW": "魔法抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Magiewiderstand",
     "esES": "%+d%% de resistencia máxima a la magia",
@@ -2399,7 +2399,7 @@
   {
     "id": 3599,
     "Key": "ModStr5y",
-    "enUS": "ÿcA%+d%%ÿc0 to Maximum ÿcAPoisonÿc0 Resistÿc3",
+    "enUS": "ÿc0Maximum Resist ÿcAPoison %+d%%ÿc3",
     "zhTW": "毒素抗性上限 %+d%%",
     "deDE": "%+d%% zu max. Giftwiderstand",
     "esES": "%+d%% de resistencia máxima al veneno",
@@ -3028,7 +3028,7 @@
   {
     "id": 10026,
     "Key": "strModFireDamage",
-    "enUS": "%+d ÿcTfireÿc3 damage",
+    "enUS": "ÿcT%+d fireÿc3 damage",
     "zhTW": "%+d 火焰傷害",
     "deDE": "%+d Feuerschaden",
     "esES": "%+d p. de daño de fuego",
@@ -3045,7 +3045,7 @@
   {
     "id": 10027,
     "Key": "strModFireDamageRange",
-    "enUS": "Adds %d-%d ÿcTfireÿc3 damage",
+    "enUS": "Adds ÿcT%d-%d fireÿc3 damage",
     "zhTW": "附加 %d - %d 火焰傷害",
     "deDE": "Fügt %d-%d Feuerschaden hinzu",
     "esES": "Añade %d-%d p. daño de fuego",
@@ -3062,7 +3062,7 @@
   {
     "id": 10028,
     "Key": "strModColdDamage",
-    "enUS": "%+d ÿcUcoldÿc3 damage",
+    "enUS": "ÿcU%+d coldÿc3 damage",
     "zhTW": "%+d 冰寒傷害",
     "deDE": "%+d Kälteschaden",
     "esES": "%+d p. de daño de frío",
@@ -3079,7 +3079,7 @@
   {
     "id": 10029,
     "Key": "strModColdDamageRange",
-    "enUS": "Adds %d-%d ÿcUcoldÿc3 damage",
+    "enUS": "Adds ÿcU%d-%d coldÿc3 damage",
     "zhTW": "附加 %d - %d 冰寒傷害",
     "deDE": "Fügt %d-%d Kälteschaden hinzu",
     "esES": "Añade %d-%d p. de daño de frío",
@@ -3096,7 +3096,7 @@
   {
     "id": 10030,
     "Key": "strModLightningDamage",
-    "enUS": "%+d ÿc9lightningÿc3 damage",
+    "enUS": "ÿc9%+d lightningÿc3 damage",
     "zhTW": "%+d 電擊傷害",
     "deDE": "%+d Blitzschaden",
     "esES": "%+d p. de daño de rayos",
@@ -3113,7 +3113,7 @@
   {
     "id": 10031,
     "Key": "strModLightningDamageRange",
-    "enUS": "Adds %d-%d ÿc9lightningÿc3 damage",
+    "enUS": "Adds ÿc9%d-%d lightningÿc3 damage",
     "zhTW": "附加 %d - %d 電擊傷害",
     "deDE": "Fügt %d-%d Blitzschaden hinzu",
     "esES": "Añade %d-%d p. de daño de rayos",
@@ -3130,7 +3130,7 @@
   {
     "id": 10032,
     "Key": "strModMagicDamage",
-    "enUS": "%+d magic damage",
+    "enUS": "ÿc8%+d magicÿc3 damage",
     "zhTW": "%+d 魔法傷害",
     "deDE": "%+d Magieschaden",
     "esES": "%+d p. de daño mágico",
@@ -3147,7 +3147,7 @@
   {
     "id": 10033,
     "Key": "strModMagicDamageRange",
-    "enUS": "Adds %d-%d ÿc8magicÿc3 damage",
+    "enUS": "Adds ÿc8%d-%d magicÿc3 damage",
     "zhTW": "附加 %d - %d 魔法傷害",
     "deDE": "Fügt %d-%d Magieschaden hinzu",
     "esES": "Añade %d-%d p. de daño mágico",
@@ -3164,7 +3164,7 @@
   {
     "id": 10034,
     "Key": "strModPoisonDamage",
-    "enUS": "%+d ÿcApoisonÿc3 damage over %d seconds",
+    "enUS": "ÿcA%+d poisonÿc3 damage over ÿcA%dÿc3 seconds",
     "zhTW": "%+d 毒素傷害，時效 %d 秒",
     "deDE": "%+d Giftschaden über %d Sek.",
     "esES": "%+d p. de daño de veneno durante %d s",
@@ -3181,7 +3181,7 @@
   {
     "id": 10035,
     "Key": "strModPoisonDamageRange",
-    "enUS": "Adds %d-%d ÿcApoisonÿc3 damage over %d seconds",
+    "enUS": "Adds ÿcA%d-%d poisonÿc3 damage over ÿcA%dÿc3 seconds",
     "zhTW": "附加 %d - %d 毒素傷害，時效 %d 秒",
     "deDE": "Fügt %d-%d Giftschaden über %d Sek. hinzu",
     "esES": "Añade %d-%d p. de daño de veneno durante %d s",
@@ -3895,7 +3895,7 @@
   {
     "id": 10979,
     "Key": "ModitemHPaK",
-    "enUS": "ÿcM•%+d ÿc1LifeÿcM after each Kill•ÿc3",
+    "enUS": "ÿcM%+d ÿc1LifeÿcM after each Killÿc3",
     "zhTW": "%+d 擊殺生命恢復",
     "deDE": "%+d Leben nach jedem Kill",
     "esES": "%+d p. de vida tras cada asesinato",

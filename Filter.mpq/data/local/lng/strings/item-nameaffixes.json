@@ -546,7 +546,7 @@
   {
     "id": 1757,
     "Key": "Steel",
-    "enUS": "Steel",
+    "enUS": "ÿcPSteelÿc3",
     "zhTW": "鋼鐵",
     "deDE": "[fs]stählerne[ms]stählerner[ns]stählernes[pl]stählerne",
     "esES": "de acero",
@@ -631,7 +631,7 @@
   {
     "id": 1762,
     "Key": "Sharp",
-    "enUS": "Sharp",
+    "enUS": "ÿcPSharpÿc3",
     "zhTW": "銳利",
     "deDE": "[fs]scharfe[ms]scharfer[ns]scharfes[pl]scharfe",
     "esES": "[fs]afilada[ms]afilado[fp]afiladas[mp]afilados",
@@ -648,7 +648,7 @@
   {
     "id": 1763,
     "Key": "Fine",
-    "enUS": "Fine",
+    "enUS": "ÿcPFineÿc3",
     "zhTW": "良質",
     "deDE": "[fs]feine[ms]feiner[ns]feines[pl]feine",
     "esES": "[fs]fina[ms]fino[fp]finas[mp]finos",
@@ -1175,7 +1175,7 @@
   {
     "id": 1794,
     "Key": "Sapphire",
-    "enUS": "Sapphire",
+    "enUS": "ÿcUSapphireÿc3",
     "zhTW": "寶藍",
     "deDE": "[fs]saphirblaue[ms]saphirblauer[ns]saphirblaues[pl]saphirblaue",
     "esES": "de zafiro",
@@ -1294,7 +1294,7 @@
   {
     "id": 1801,
     "Key": "Ruby",
-    "enUS": "Ruby",
+    "enUS": "ÿcTRubyÿc3",
     "zhTW": "寶紅",
     "deDE": "[fs]rubinrote[ms]rubinroter[ns]rubinrotes[pl]rubinrote",
     "esES": "de rubí",
@@ -1413,7 +1413,7 @@
   {
     "id": 1808,
     "Key": "Amber",
-    "enUS": "Amber",
+    "enUS": "ÿc9Amberÿc3",
     "zhTW": "琥珀",
     "deDE": "[fs]hellbraune[ms]hellbrauner[ns]hellbraunes[pl]hellbraune",
     "esES": "[fs]ámbar[ms]ámbar[fp]ámbar[mp]ámbar",
@@ -1515,7 +1515,7 @@
   {
     "id": 1815,
     "Key": "Emerald",
-    "enUS": "Emerald",
+    "enUS": "ÿcAEmeraldÿc3",
     "zhTW": "寶綠",
     "deDE": "[fs]smaragdgrüne[ms]smaragdgrüner[ns] smaragdgrünes[pl]smaragdgrüne",
     "esES": "de esmeralda",
@@ -1549,7 +1549,7 @@
   {
     "id": 1817,
     "Key": "Fletcher's",
-    "enUS": "Fletcher's",
+    "enUS": "ÿcNBowazonÿc3",
     "zhTW": "造箭師",
     "deDE": "Pfeilmacher -",
     "esES": "de flechero",
@@ -2858,7 +2858,7 @@
   {
     "id": 1895,
     "Key": "of Energy",
-    "enUS": "of Energy",
+    "enUS": "ÿcKof Energyÿc3",
     "zhTW": "能量之",
     "deDE": "der Energie",
     "esES": "de energía",
@@ -3130,7 +3130,7 @@
   {
     "id": 1911,
     "Key": "of the Leech",
-    "enUS": "of the Leech",
+    "enUS": "ÿcKof the Leechÿc3",
     "zhTW": "血蛭之",
     "deDE": "des Blutegels",
     "esES": "de la sanguijuela",
@@ -9012,7 +9012,7 @@
   {
     "id": 20745,
     "Key": "Shogukusha's",
-    "enUS": "Shogukusha's",
+    "enUS": "ÿcNMosaicÿc3",
     "zhTW": "修武者",
     "deDE": "Shogukushas",
     "esES": "[fs]de Shogukusha[ms]de Shogukusha[fp]de Shogukusha[mp]de Shogukusha",
@@ -9097,7 +9097,7 @@
   {
     "id": 20750,
     "Key": "Entrapping",
-    "enUS": "Entrapping",
+    "enUS": "ÿcNTrapsinÿc3",
     "zhTW": "誘騙",
     "deDE": "[ms]umfangender[fs]umfangende[ns]umfangendes[pl]umfangende",
     "esES": "[fs]atrapadora[ms]atrapador[fp]atrapadoras[mp]atrapadores",
@@ -9148,7 +9148,7 @@
   {
     "id": 20753,
     "Key": "Nature's",
-    "enUS": "Natural",
+    "enUS": "ÿcNElementalÿc3",
     "zhTW": "自然",
     "deDE": "[ms]natürlicher[fs]natürliche[ns]natürliches[pl]natürliche",
     "esES": "[fs]natural[ms]natural[fp]naturales[mp]naturales",
@@ -9369,7 +9369,7 @@
   {
     "id": 20766,
     "Key": "Sounding",
-    "enUS": "Sounding",
+    "enUS": "ÿcNWarcriesÿcN",
     "zhTW": "鳴響",
     "deDE": "[ms]tönender[fs]tönende[ns]tönendes[pl]tönende",
     "esES": "[fs]sonora[ms]sonoro[fp]sonoras[mp]sonoros",
@@ -9522,7 +9522,7 @@
   {
     "id": 20775,
     "Key": "Lion Branded",
-    "enUS": "Lion Branded",
+    "enUS": "ÿcNHammerdinÿc3",
     "zhTW": "雄獅烙印",
     "deDE": "[ms]eingebrannter[fs]eingebrannte[ns]eingebranntes[pl]eingebrannte",
     "esES": "[fs]de marca de león[ms]de marca de león[fp]de marca de león[mp]de marca de león",
@@ -9573,7 +9573,7 @@
   {
     "id": 20778,
     "Key": "Graverobber's",
-    "enUS": "Graverobber's",
+    "enUS": "ÿcNSummonerÿc3",
     "zhTW": "盜墓者",
     "deDE": "[ms]räuberischer[fs]räuberische[ns]räuberisches[pl]räuberische",
     "esES": "[fs]de abretumbas[ms]de abretumbas[fp]de abretumbas[mp]de abretumbas",
@@ -9624,7 +9624,7 @@
   {
     "id": 20781,
     "Key": "Fungal",
-    "enUS": "Fungal",
+    "enUS": "ÿcNPoisonerÿc3",
     "zhTW": "真菌",
     "deDE": "[ms]schwammiger[fs]schwammige[ns]schwammiges[pl]schwammige",
     "esES": "[fs]fúngica[ms]fúngico[fp]fúngicas[mp]fúngicos",
@@ -9726,7 +9726,7 @@
   {
     "id": 20787,
     "Key": "Chilling",
-    "enUS": "Chilling",
+    "enUS": "ÿcNColdÿc3",
     "zhTW": "寒冰",
     "deDE": "[ms]frostiger[fs]frostige[ns]frostiges[pl]frostige",
     "esES": "[fs]refrescante[ms]refrescante[fp]refrescantes[mp]refrescantes",
@@ -9777,7 +9777,7 @@
   {
     "id": 20790,
     "Key": "Sparking",
-    "enUS": "Sparking",
+    "enUS": "ÿcNLightningÿcN",
     "zhTW": "電光",
     "deDE": "[ms]funkenschlagender[fs]funkenschlagende[ns]funkenschlagendes[pl]funkenschlagende",
     "esES": "[fs]chispeante[ms]chispeante[fp]chispeantes[mp]chispeantes",
@@ -9828,7 +9828,7 @@
   {
     "id": 20793,
     "Key": "Burning",
-    "enUS": "Burning",
+    "enUS": "ÿcNFireÿc3",
     "zhTW": "燃燒",
     "deDE": "[ms]brennender[fs]brennende[ns]brennendes[pl]brennende",
     "esES": "[fs]ardiente[ms]ardiente[fp]ardientes[mp]ardientes",
@@ -9879,7 +9879,7 @@
   {
     "id": 20796,
     "Key": "Harpoonist's",
-    "enUS": "Harpoonist's",
+    "enUS": "ÿcNJavazonÿc3",
     "zhTW": "魚叉手",
     "deDE": "[ms]gezielter[fs]gezielte[ns]gezieltes[pl]gezielte",
     "esES": "[fs]de arponera[ms]de arponera[fp]de arponera[mp]de arponera",
@@ -11035,7 +11035,7 @@
   {
     "id": 20864,
     "Key": "Chaotic",
-    "enUS": "Chaotic",
+    "enUS": "ÿcNChaoticÿc3",
     "zhTW": "混沌",
     "deDE": "[ms]chaotischer[fs]chaotische[ns]chaotisches[pl]chaotische",
     "esES": "[fs]caótica[ms]caótico[fp]caóticas[mp]caóticos",
@@ -13534,7 +13534,7 @@
   {
     "id": 21011,
     "Key": "of the Icicle",
-    "enUS": "of the Icicle",
+    "enUS": "ÿcKof the Icicleÿc3",
     "zhTW": "冰刺之",
     "deDE": "des Eiszapfens",
     "esES": "del carámbano",
@@ -17291,7 +17291,7 @@
   {
     "id": 27894,
     "Key": "Sullied",
-    "enUS": "Sullied",
+    "enUS": "ÿcNEldritchÿc3",
     "zhTW": "玷汙",
     "deDE": "[ms]Beschmutzter[fs]Beschmutzte[ns]Beschmutztes[pl]Beschmutzte",
     "esES": "[fs]maculada[ms]maculado[fp]maculadas[mp]maculados",
@@ -17308,7 +17308,7 @@
   {
     "id": 27895,
     "Key": "Fiendish",
-    "enUS": "Fiendish",
+    "enUS": "ÿcNDemonologyÿc3",
     "zhTW": "妖魔",
     "deDE": "[ms]Teuflischer[fs]Teuflische[ns]Teuflisches[pl]Teuflische",
     "esES": "[fs]maligna[ms]maligno[fp]malignas[mp]malignos",
