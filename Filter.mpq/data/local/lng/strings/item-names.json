@@ -4796,7 +4796,7 @@
   {
     "id": 2212,
     "Key": "amu",
-    "enUS": "••Amulet••",
+    "enUS": "•Amulet•\n•Pick Up•\n",
     "zhTW": "護身符",
     "deDE": "[ns]Amulett",
     "esES": "[ms]Amuleto",
@@ -4830,7 +4830,7 @@
   {
     "id": 2214,
     "Key": "rin",
-    "enUS": "••Ring••",
+    "enUS": "•Ring•\n•Pick Up•\n",
     "zhTW": "戒指",
     "deDE": "[ms]Ring",
     "esES": "[ms]Anillo",

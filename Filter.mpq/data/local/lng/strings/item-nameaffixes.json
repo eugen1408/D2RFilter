@@ -2,7 +2,7 @@
   {
     "id": 1723,
     "Key": "Low Quality",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "ÿc5-ÿcK",
     "zhTW": "劣等的",
     "deDE": "[ms]schlechter[fs]schlechte[ns]schlechtes[pl]schlechte",
     "esES": "de baja calidad",
@@ -19,7 +19,7 @@
   {
     "id": 1724,
     "Key": "Damaged",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "ÿc5-ÿcK",
     "zhTW": "損壞的",
     "deDE": "[ms]beschädigter[fs]beschädigte[ns]beschädigtes[pl]beschädigte",
     "esES": "[fs]dañada[ms]dañado[fp]dañadas[mp]dañados",
@@ -36,7 +36,7 @@
   {
     "id": 1725,
     "Key": "Cracked",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "ÿc5-ÿcK",
     "zhTW": "破舊的",
     "deDE": "[ms]rissiger[fs]rissige[ns]rissiges[pl]rissige",
     "esES": "[fs]agrietada[ms]agrietado[fp]agrietadas[mp]agrietados",
@@ -512,7 +512,7 @@
   {
     "id": 1755,
     "Key": "Bronze",
-    "enUS": "Bronze",
+    "enUS": "ÿcKBronzeÿc3",
     "zhTW": "青銅",
     "deDE": "[fs]bronzene[ms]bronzener[ns]bronzenes[pl]bronzene",
     "esES": "de bronce",
@@ -886,7 +886,7 @@
   {
     "id": 1777,
     "Key": "Glowing",
-    "enUS": "Glowing",
+    "enUS": "ÿcKGlowingÿc3",
     "zhTW": "光亮",
     "deDE": "[fs]glühende[ms] glühender[ns]glühendes[pl]glühende",
     "esES": "[fs]radiante[ms]radiante[fp]radiantes[mp]radiantes",
@@ -937,7 +937,7 @@
   {
     "id": 1780,
     "Key": "Lizard's",
-    "enUS": "Lizard's",
+    "enUS": "ÿcKLizard'sÿc3",
     "zhTW": "蜥蜴",
     "deDE": "Echsen -",
     "esES": "[fs]de lagarto[ms]de lagarto[fp]de lagarto[mp]de lagarto",
@@ -971,7 +971,7 @@
   {
     "id": 1782,
     "Key": "Snake's",
-    "enUS": "Snake's",
+    "enUS": "ÿcKSnake'sÿc3",
     "zhTW": "盤蛇",
     "deDE": "Schlangen -",
     "esES": "[fs]de culebra[ms]de culebra[fp]de culebra[mp]de culebra",
@@ -2212,7 +2212,7 @@
   {
     "id": 1857,
     "Key": "of Frost",
-    "enUS": "of Frost",
+    "enUS": "ÿcKof Frostÿc3",
     "zhTW": "冰霜之",
     "deDE": "des Frostes",
     "esES": "de escarcha",
@@ -2263,7 +2263,7 @@
   {
     "id": 1860,
     "Key": "of Flame",
-    "enUS": "of Flame",
+    "enUS": "ÿcKof Flameÿc3",
     "zhTW": "火炎之",
     "deDE": "der Flamme",
     "esES": "de llamas",
@@ -2280,7 +2280,7 @@
   {
     "id": 1861,
     "Key": "of Fire",
-    "enUS": "of Fire",
+    "enUS": "ÿcKof Fireÿc3",
     "zhTW": "火焰之",
     "deDE": "des Feuers",
     "esES": "de fuego",
@@ -2314,7 +2314,7 @@
   {
     "id": 1863,
     "Key": "of Shock",
-    "enUS": "of Shock",
+    "enUS": "ÿcKof Shockÿc3",
     "zhTW": "觸電之",
     "deDE": "des Schocks",
     "esES": "de electrocución",
@@ -2365,7 +2365,7 @@
   {
     "id": 1866,
     "Key": "of Craftsmanship",
-    "enUS": "of Craftmanship",
+    "enUS": "ÿcKof Craftmanshipÿc3",
     "zhTW": "工匠之",
     "deDE": "der Kunstfertigkeit",
     "esES": "de artesanía",
@@ -2552,7 +2552,7 @@
   {
     "id": 1877,
     "Key": "of Blight",
-    "enUS": "of Blight",
+    "enUS": "ÿcKof Blightÿc3",
     "zhTW": "荒疫之",
     "deDE": "der Fäulnis",
     "esES": "de peste",
@@ -2603,7 +2603,7 @@
   {
     "id": 1880,
     "Key": "of Dexterity",
-    "enUS": "of Dexterity",
+    "enUS": "ÿcKof Dexterityÿc3",
     "zhTW": "敏捷之",
     "deDE": "der Geschicklichkeit",
     "esES": "de destreza",
@@ -3011,7 +3011,7 @@
   {
     "id": 1904,
     "Key": "of Life",
-    "enUS": "of Life",
+    "enUS": "ÿcKof Lifeÿc3",
     "zhTW": "生命之",
     "deDE": "des Lebens",
     "esES": "de la vida",
@@ -3045,7 +3045,7 @@
   {
     "id": 1906,
     "Key": "of the Fox",
-    "enUS": "of the Fox",
+    "enUS": "ÿcKof the Foxÿc3",
     "zhTW": "狐狸之",
     "deDE": "des Fuchses",
     "esES": "del zorro",
@@ -3130,7 +3130,7 @@
   {
     "id": 1911,
     "Key": "of the Leech",
-    "enUS": "ÿcKof the Leechÿc3",
+    "enUS": "of the Leech",
     "zhTW": "血蛭之",
     "deDE": "des Blutegels",
     "esES": "de la sanguijuela",
@@ -3317,7 +3317,7 @@
   {
     "id": 1922,
     "Key": "of Strength",
-    "enUS": "of Strength",
+    "enUS": "ÿcKof Strengthÿc3",
     "zhTW": "力量之",
     "deDE": "der Stärke",
     "esES": "de fuerza",
@@ -6105,7 +6105,7 @@
   {
     "id": 2744,
     "Key": "Foul",
-    "enUS": "Foul",
+    "enUS": "ÿcKFoulÿc3",
     "zhTW": "穢汙",
     "deDE": "Faul -",
     "esES": "del hedor",
@@ -8162,7 +8162,7 @@
   {
     "id": 20695,
     "Key": "Stalwart",
-    "enUS": "Stalwart",
+    "enUS": "ÿcKStalwartÿc3",
     "zhTW": "健壯",
     "deDE": "[ms]robuster[fs]robuste[ns]robustes[pl]robuste",
     "esES": "[fs]inexpugnable[ms]inexpugnable[fp]inexpugnables[mp]inexpugnables",
@@ -8315,7 +8315,7 @@
   {
     "id": 20704,
     "Key": "Pestilent",
-    "enUS": "Pestilent",
+    "enUS": "ÿcKPestilentÿc3",
     "zhTW": "疫病",
     "deDE": "[ms]verseuchter[fs]verseuchte[ns]verseuchtes[pl]verseuchte",
     "esES": "[fs]pestilente[ms]pestilente[fp]pestilentes[mp]pestilentes",
@@ -8332,7 +8332,7 @@
   {
     "id": 20705,
     "Key": "Toxic",
-    "enUS": "Toxic",
+    "enUS": "ÿcKToxicÿc3",
     "zhTW": "劇毒",
     "deDE": "[ms]toxischer[fs]toxische[ns]toxisches[pl]toxische",
     "esES": "[fs]tóxica[ms]tóxico[fp]tóxicas[mp]tóxicos",
@@ -8366,7 +8366,7 @@
   {
     "id": 20707,
     "Key": "Envenomed",
-    "enUS": "Foul",
+    "enUS": "ÿcKFoulÿc3",
     "zhTW": "穢汙",
     "deDE": "[ms]fauler[fs]faule[ns]faules[pl]faule",
     "esES": "[fs]nauseabunda[ms]nauseabundo[fp]nauseabundas[mp]nauseabundos",
@@ -8383,7 +8383,7 @@
   {
     "id": 20708,
     "Key": "Septic",
-    "enUS": "Septic",
+    "enUS": "ÿcKSepticÿc3",
     "zhTW": "敗腐",
     "deDE": "[ms]septischer[fs]septische[ns]septisches[pl]septische",
     "esES": "[fs]séptica[ms]séptico[fp]sépticas[mp]sépticos",
@@ -8400,7 +8400,7 @@
   {
     "id": 20709,
     "Key": "Shocking",
-    "enUS": "Shocking",
+    "enUS": "ÿcKShockingÿc3",
     "zhTW": "電擊",
     "deDE": "[ms]blitzender[fs]blitzende[ns]blitzendes[pl]blitzende",
     "esES": "[fs]electrizante[ms]electrizante[fp]electrizantes[mp]electrizantes",
@@ -8417,7 +8417,7 @@
   {
     "id": 20710,
     "Key": "Arcing",
-    "enUS": "Arcing",
+    "enUS": "ÿcKArcingÿc3",
     "zhTW": "電弧",
     "deDE": "[ms]springender[fs]springende[ns]springendes[pl]springende",
     "esES": "[fs]conductiva[ms]conductivo[fp]conductivas[mp]conductivos",
@@ -8451,7 +8451,7 @@
   {
     "id": 20712,
     "Key": "Static",
-    "enUS": "Static",
+    "enUS": "ÿcKStaticÿc3",
     "zhTW": "靜電",
     "deDE": "[ms]statischer[fs]statische[ns]statisches[pl]statische",
     "esES": "[fs]estática[ms]estático[fp]estáticas[mp]estáticos",
@@ -8485,7 +8485,7 @@
   {
     "id": 20714,
     "Key": "Flaming",
-    "enUS": "Flaming",
+    "enUS": "ÿcKFlamingÿc3",
     "zhTW": "烈焰",
     "deDE": "[ms]flammender[fs]flammende[ns]flammendes[pl]flammende",
     "esES": "[fs]flamígera[ms]flamígero[fp]flamígeras[mp]flamígeros",
@@ -8502,7 +8502,7 @@
   {
     "id": 20715,
     "Key": "Smoking",
-    "enUS": "Smoking",
+    "enUS": "ÿcKSmokingÿc3",
     "zhTW": "火煙",
     "deDE": "[ms]rauchender[fs]rauchende[ns]rauchendes[pl]rauchende",
     "esES": "[fs]humeante[ms]humeante[fp]humeantes[mp]humeantes",
@@ -8519,7 +8519,7 @@
   {
     "id": 20716,
     "Key": "Smoldering",
-    "enUS": "Smoldering",
+    "enUS": "ÿcKSmolderingÿc3",
     "zhTW": "悶燃",
     "deDE": "[ms]schwelender[fs]schwelende[ns]schwelendes[pl]schwelende",
     "esES": "[fs]tórrida[ms]tórrido[fp]tórridas[mp]tórridos",
@@ -8553,7 +8553,7 @@
   {
     "id": 20718,
     "Key": "Hibernal",
-    "enUS": "Hibernal",
+    "enUS": "ÿcKHibernalÿc3",
     "zhTW": "冬寒",
     "deDE": "[ms]schlafender[fs]schlafende[ns]schlafendes[pl]schlafende",
     "esES": "[fs]hibernal[ms]hibernal[fp]hibernales[mp]hibernales",
@@ -8570,7 +8570,7 @@
   {
     "id": 20719,
     "Key": "Boreal",
-    "enUS": "Boreal",
+    "enUS": "ÿcKBorealÿc3",
     "zhTW": "凍原",
     "deDE": "[ms]windiger[fs]windige[ns]windiges[pl]windige",
     "esES": "[fs]boreal[ms]boreal[fp]boreales[mp]boreales",
@@ -8587,7 +8587,7 @@
   {
     "id": 20720,
     "Key": "Shivering",
-    "enUS": "Shivering",
+    "enUS": "ÿcKShiveringÿc3",
     "zhTW": "凍顫",
     "deDE": "[ms]zitternder[fs]zitternde[ns]zitterndes[pl]zitternde",
     "esES": "[fs]escalofriante[ms]escalofriante[fp]escalofriantes[mp]escalofriantes",
@@ -8604,7 +8604,7 @@
   {
     "id": 20721,
     "Key": "Snowflake",
-    "enUS": "Snowy",
+    "enUS": "ÿcKSnowyÿc3",
     "zhTW": "落雪",
     "deDE": "[ms]verschneiter[fs]verschneite[ns]verschneites[pl]verschneite",
     "esES": "[fs]nevada[ms]nevado[fp]nevadas[mp]nevados",
@@ -9369,7 +9369,7 @@
   {
     "id": 20766,
     "Key": "Sounding",
-    "enUS": "ÿcNWarcriesÿcN",
+    "enUS": "ÿcNWarcriesÿc3",
     "zhTW": "鳴響",
     "deDE": "[ms]tönender[fs]tönende[ns]tönendes[pl]tönende",
     "esES": "[fs]sonora[ms]sonoro[fp]sonoras[mp]sonoros",
@@ -9777,7 +9777,7 @@
   {
     "id": 20790,
     "Key": "Sparking",
-    "enUS": "ÿcNLightningÿcN",
+    "enUS": "ÿcNLightningÿc3",
     "zhTW": "電光",
     "deDE": "[ms]funkenschlagender[fs]funkenschlagende[ns]funkenschlagendes[pl]funkenschlagende",
     "esES": "[fs]chispeante[ms]chispeante[fp]chispeantes[mp]chispeantes",
@@ -11715,7 +11715,7 @@
   {
     "id": 20904,
     "Key": "Shimmering",
-    "enUS": "ÿcNShimmeringÿc3",
+    "enUS": "ÿcSShimmeringÿc3",
     "zhTW": "閃耀",
     "deDE": "[ms]schimmernder[fs]schimmernde[ns]schimmerndes[pl]schimmernde",
     "esES": "[fs]reluciente[ms]reluciente[fp]relucientes[mp]relucientes",
@@ -11817,7 +11817,7 @@
   {
     "id": 20910,
     "Key": "Crude",
-    "enUS": "ÿc5•ÿc6",
+    "enUS": "ÿc5-ÿcK",
     "zhTW": "粗製的",
     "deDE": "[ms]einfacher[fs]einfache[ns]einfaches[pl]einfache",
     "esES": "[fs]basta[ms]basto[fp]bastas[mp]bastos",
@@ -12327,7 +12327,7 @@
   {
     "id": 20940,
     "Key": "of Chain Lightning",
-    "enUS": "of Chain Lightning",
+    "enUS": "ÿcKof Chain Lightningÿc3",
     "zhTW": "連鎖閃電之",
     "deDE": "des Kettenblitzes",
     "esES": "de Cadena de rayos",
@@ -13007,7 +13007,7 @@
   {
     "id": 20980,
     "Key": "of Vita",
-    "enUS": "ÿcNof Vitaÿc3",
+    "enUS": "ÿcSof Vitaÿc3",
     "zhTW": "活力之",
     "deDE": "der Vita",
     "esES": "de existencia",
@@ -13143,7 +13143,7 @@
   {
     "id": 20988,
     "Key": "of Good Luck",
-    "enUS": "ÿcNof Good Luckÿc3",
+    "enUS": "ÿcSof Good Luckÿc3",
     "zhTW": "幸運之",
     "deDE": "des großen Glücks",
     "esES": "de la buena suerte",
