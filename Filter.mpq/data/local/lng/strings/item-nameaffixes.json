@@ -2,7 +2,7 @@
   {
     "id": 1723,
     "Key": "Low Quality",
-    "enUS": "ÿc5-ÿcK",
+    "enUS": "ÿcK-",
     "zhTW": "劣等的",
     "deDE": "[ms]schlechter[fs]schlechte[ns]schlechtes[pl]schlechte",
     "esES": "de baja calidad",
@@ -19,7 +19,7 @@
   {
     "id": 1724,
     "Key": "Damaged",
-    "enUS": "ÿc5-ÿcK",
+    "enUS": "ÿcK-",
     "zhTW": "損壞的",
     "deDE": "[ms]beschädigter[fs]beschädigte[ns]beschädigtes[pl]beschädigte",
     "esES": "[fs]dañada[ms]dañado[fp]dañadas[mp]dañados",
@@ -36,7 +36,7 @@
   {
     "id": 1725,
     "Key": "Cracked",
-    "enUS": "ÿc5-ÿcK",
+    "enUS": "ÿcK-",
     "zhTW": "破舊的",
     "deDE": "[ms]rissiger[fs]rissige[ns]rissiges[pl]rissige",
     "esES": "[fs]agrietada[ms]agrietado[fp]agrietadas[mp]agrietados",
@@ -1175,7 +1175,7 @@
   {
     "id": 1794,
     "Key": "Sapphire",
-    "enUS": "ÿcUSapphireÿc3",
+    "enUS": "ÿcSSapphireÿc3",
     "zhTW": "寶藍",
     "deDE": "[fs]saphirblaue[ms]saphirblauer[ns]saphirblaues[pl]saphirblaue",
     "esES": "de zafiro",
@@ -1294,7 +1294,7 @@
   {
     "id": 1801,
     "Key": "Ruby",
-    "enUS": "ÿcTRubyÿc3",
+    "enUS": "ÿcSRubyÿc3",
     "zhTW": "寶紅",
     "deDE": "[fs]rubinrote[ms]rubinroter[ns]rubinrotes[pl]rubinrote",
     "esES": "de rubí",
@@ -1413,7 +1413,7 @@
   {
     "id": 1808,
     "Key": "Amber",
-    "enUS": "ÿc9Amberÿc3",
+    "enUS": "ÿcSAmberÿc3",
     "zhTW": "琥珀",
     "deDE": "[fs]hellbraune[ms]hellbrauner[ns]hellbraunes[pl]hellbraune",
     "esES": "[fs]ámbar[ms]ámbar[fp]ámbar[mp]ámbar",
@@ -1515,7 +1515,7 @@
   {
     "id": 1815,
     "Key": "Emerald",
-    "enUS": "ÿcAEmeraldÿc3",
+    "enUS": "ÿcSEmeraldÿc3",
     "zhTW": "寶綠",
     "deDE": "[fs]smaragdgrüne[ms]smaragdgrüner[ns] smaragdgrünes[pl]smaragdgrüne",
     "esES": "de esmeralda",
@@ -2399,7 +2399,7 @@
   {
     "id": 1868,
     "Key": "of Maiming",
-    "enUS": "of Maiming",
+    "enUS": "ÿcPof Maimingÿc3",
     "zhTW": "殘害之",
     "deDE": "der Verstümmelung",
     "esES": "de desfiguración",
@@ -11817,7 +11817,7 @@
   {
     "id": 20910,
     "Key": "Crude",
-    "enUS": "ÿc5-ÿcK",
+    "enUS": "ÿcK-",
     "zhTW": "粗製的",
     "deDE": "[ms]einfacher[fs]einfache[ns]einfaches[pl]einfache",
     "esES": "[fs]basta[ms]basto[fp]bastas[mp]bastos",
@@ -13483,7 +13483,7 @@
   {
     "id": 21008,
     "Key": "of Incineration",
-    "enUS": "of Incineration",
+    "enUS": "ÿcKof Incinerationÿc3",
     "zhTW": "焚絕之",
     "deDE": "der Einäscherung",
     "esES": "de incineración",
