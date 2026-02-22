@@ -225,36 +225,97 @@
             }
         },
         {
-            "type": "ButtonWidget", "name": "QuickPlayButton",
+            "type": "ButtonWidget",
+            "name": "OnlinePlaySettingsButton",
             "fields": {
-                "anchor": { "x": 0.5 },
-                "rect": { "x": -1010, "y": 1865 },
-                "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonLarge",
-                "textString": "@PlayTab",
-                "onClickMessage": "MainMenuHD:Play",
-                "text/style": "$StyleFEButtonText",
-                "pointSize": "$ExtraLargeFontSize",
+                "anchor": {
+                    "x": 0.5
+                },
+                "rect": {
+                    "x": -600,
+                    "y": 1893
+                },
+                "filename": "FrontEnd\\HD\\Final\\FrontEnd_Cog",
+                "tooltipString": "@GameCreationHD",
+                "onClickMessage": "PanelManager:OpenPanel:OnlineGameSettingsPanel",
+                "hoveredFrame": 2,
+                "disabledFrame": 3,
+                "disabledTint": {
+                    "a": 1.0
+                }
+            }
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "Normal",
+            "fields": {
+                "anchor": {
+                    "x": 0.5
+                },
+                "rect": {
+                    "x": -485,
+                    "y": 2007
+                },
+                "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
+                "textString": "@strCreateGameNormalText",
+                "onClickMessage": "CharacterSelect:LoadCharacter:0",
                 "textColor": "$LightButtonTextColor",
+                "text/style": "$StyleFEButtonText",
                 "hoveredFrame": 3,
                 "disabledFrame": 2,
-                "disabledTint": { "a": 1.0 },
-                "sound": "cursor_launch_game_hd",
-            },
-            "children": [
-                {
-                    "type": "ButtonWidget", "name": "OnlinePlaySettingsButton",
-                    "fields": {
-                        "anchor": { "x": 0.5, "y": 1.0 },
-                        "rect": { "x": -47, "y": 8 },
-                        "filename": "FrontEnd\\HD\\Final\\FrontEnd_Cog",
-                        "tooltipString": "@GameCreationHD",
-                        "onClickMessage": "PanelManager:OpenPanel:OnlineGameSettingsPanel",
-                        "hoveredFrame": 2,
-                        "disabledFrame": 3,
-                        "disabledTint": { "a": 1.0 },
-                    }
+                "disabledTint": {
+                    "a": 1.0
                 },
-            ] 
+                "sound": "cursor_launch_game_hd"
+            }
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "Nightmare",
+            "fields": {
+                "anchor": {
+                    "x": 0.5
+                },
+                "rect": {
+                    "x": -485,
+                    "y": 1877
+                },
+                "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
+                "textString": "@strCreateGameNightmareText",
+                "onClickMessage": "CharacterSelect:LoadCharacter:1",
+                "textColor": "$LightButtonTextColor",
+                "text/style": "$StyleFEButtonText",
+                "hoveredFrame": 3,
+                "disabledFrame": 2,
+                "disabledTint": {
+                    "a": 1.0
+                },
+                "sound": "cursor_launch_game_hd"
+            }
+        },
+        {
+            "type": "ButtonWidget",
+            "name": "Hell",
+            "fields": {
+                "anchor": {
+                    "x": 0.5
+                },
+                "rect": {
+                    "x": -485,
+                    "y": 1747
+                },
+                "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
+                "textString": "@strCreateGameHellText",
+                "onClickMessage": "CharacterSelect:LoadCharacter:2",
+                "textColor": "$LightButtonTextColor",
+                "text/style": "$StyleFEButtonText",
+                "hoveredFrame": 3,
+                "disabledFrame": 2,
+                "disabledTint": {
+                    "a": 1.0
+                },
+                "sound": "cursor_launch_game_hd"
+            }
         },
         {
             "type": "ImageWidget", "name": "Divider",
