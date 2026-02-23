@@ -254,7 +254,7 @@
                 },
                 "rect": {
                     "x": -485,
-                    "y": 2007
+                    "y": 1747
                 },
                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                 "textString": "@strCreateGameNormalText",
@@ -302,7 +302,7 @@
                 },
                 "rect": {
                     "x": -485,
-                    "y": 1747
+                    "y": 2007
                 },
                 "filename": "FrontEnd\\HD\\Final\\FrontEnd_ButtonMed",
                 "textString": "@strCreateGameHellText",
