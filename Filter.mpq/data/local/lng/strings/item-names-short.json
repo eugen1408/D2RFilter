@@ -2433,7 +2433,7 @@
   {
     "id": 2065,
     "Key": "xtb",
-    "enUS": "Battle Boots",
+    "enUS": "Battle Boots\n\n•Pick Up•\n",
     "zhTW": "戰鬥靴",
     "deDE": "[pl]Kampfstiefel",
     "esES": "[fp]Botas de batalla",
@@ -12310,7 +12310,7 @@
   {
     "id": 11146,
     "Key": "pk1",
-    "enUS": "•Key of Terror (1a)•",
+    "enUS": "•Key of Terror (1a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "恐懼之鑰",
     "deDE": "Schlüssel des Terrors",
     "esES": "Llave del terror",
@@ -12327,7 +12327,7 @@
   {
     "id": 11147,
     "Key": "pk2",
-    "enUS": "•Key of Hate (2a)•",
+    "enUS": "•Key of Hate (2a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "憎恨之鑰",
     "deDE": "Schlüssel des Hasses",
     "esES": "Llave del odio",
@@ -12344,7 +12344,7 @@
   {
     "id": 11148,
     "Key": "pk3",
-    "enUS": "•Key of Destruction (5a)•",
+    "enUS": "•Key of Destruction (5a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "毀滅之鑰",
     "deDE": "Schlüssel der Zerstörung",
     "esES": "Llave de la destrucción",
@@ -12361,7 +12361,7 @@
   {
     "id": 11149,
     "Key": "dhn",
-    "enUS": "Diablo's Horn",
+    "enUS": "•Diablo's Horn•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "迪亞布羅之角",
     "deDE": "Diablos Horn",
     "esES": "Cuerno de Diablo",
@@ -12378,7 +12378,7 @@
   {
     "id": 11150,
     "Key": "bey",
-    "enUS": "Baal's Eye",
+    "enUS": "•Baal's Eye•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "巴爾之眼",
     "deDE": "Baals Auge",
     "esES": "Ojo de Baal",
@@ -12395,7 +12395,7 @@
   {
     "id": 11151,
     "Key": "mbr",
-    "enUS": "Mephisto's Brain",
+    "enUS": "•Mephisto's Brain•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "墨菲斯托之腦",
     "deDE": "Mephistos Gehirn",
     "esES": "Cerebro de Mefisto",
@@ -12429,7 +12429,7 @@
   {
     "id": 11153,
     "Key": "Hellfire Torch",
-    "enUS": "ÿc7Hellfire Torch",
+    "enUS": "ÿc7•Hellfire Torch•",
     "zhTW": "地獄火炬",
     "deDE": "Höllenfeuerfackel",
     "esES": "Antorcha de fuego infernal",
@@ -12446,7 +12446,7 @@
   {
     "id": 11164,
     "Key": "tes",
-    "enUS": "Andy Essence",
+    "enUS": "•Andy Essence•",
     "zhTW": "扭曲的苦怨精華",
     "deDE": "Verdorbene Essenz des Leidens",
     "esES": "Esencia del sufrimiento retorcida",
@@ -12463,7 +12463,7 @@
   {
     "id": 11165,
     "Key": "ceh",
-    "enUS": "Meph Essence",
+    "enUS": "•Meph Essence•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "充盈的憎恨精華",
     "deDE": "Geladene Essenz des Hasses",
     "esES": "Esencia del odio cargada",
@@ -12480,7 +12480,7 @@
   {
     "id": 11166,
     "Key": "bet",
-    "enUS": "Diablo Essence",
+    "enUS": "•Diablo Essence•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "燃燒的恐懼精華",
     "deDE": "Brennende Essenz des Schreckens",
     "esES": "Esencia del terror ardiente",
@@ -12497,7 +12497,7 @@
   {
     "id": 11167,
     "Key": "fed",
-    "enUS": "Baal Essence",
+    "enUS": "•Baal Essence•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "潰爛的毀滅精華",
     "deDE": "Eiternde Essenz der Zerstörung",
     "esES": "Esencia de la destrucción infecta",
@@ -13058,7 +13058,7 @@
   {
     "id": 20214,
     "Key": "7gw",
-    "enUS": "•Unearthed Wand•",
+    "enUS": "•Unearthed Wand•\n\n•Pick Up•\n",
     "zhTW": "埋骨魔杖",
     "deDE": "[ms]Ausgegrabener Stab",
     "esES": "[fs]Vara desenterrada",
@@ -14707,7 +14707,7 @@
   {
     "id": 20311,
     "Key": "obf",
-    "enUS": "•Dimensional Shard•",
+    "enUS": "•Dimensional Shard•\n\n•Pick Up•\n",
     "zhTW": "次元法珠",
     "deDE": "[fs]Dimensionsscherbe",
     "esES": "[fs]Esquirla dimensional",
@@ -15217,7 +15217,7 @@
   {
     "id": 20341,
     "Key": "uap",
-    "enUS": "•Shako•",
+    "enUS": "•Shako•\n\n•Pick Up•\n",
     "zhTW": "軍帽",
     "deDE": "[ms]Tschako",
     "esES": "[ms]Chacó",
@@ -15523,7 +15523,7 @@
   {
     "id": 20359,
     "Key": "uth",
-    "enUS": "•Lacquered Plate•",
+    "enUS": "•Lacquered Plate•\n\n•Pick Up•\n",
     "zhTW": "漆護鎧甲",
     "deDE": "[fs]Lackierte Plattenrüstung",
     "esES": "[fs]Coraza lacada",
@@ -15863,7 +15863,7 @@
   {
     "id": 20379,
     "Key": "ulc",
-    "enUS": "•Spiderweb Sash•",
+    "enUS": "•Spiderweb Sash•\n\n•Pick Up•\n",
     "zhTW": "蛛網束帶",
     "deDE": "[fs]Spinnennetzschärpe",
     "esES": "[ms]Fajín de tela de araña",
@@ -26471,7 +26471,7 @@
   {
     "id": 27609,
     "Key": "ua1",
-    "enUS": "Talic's Anguish",
+    "enUS": "•Talic's Anguish (1a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "塔力克的怨慟",
     "deDE": "[fs]Talics Qual",
     "esES": "[fs]Angustia de Talic",
@@ -26488,7 +26488,7 @@
   {
     "id": 27610,
     "Key": "ua2",
-    "enUS": "Korlic's Pain",
+    "enUS": "•Korlic's Pain (2a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "科力克的苦痛",
     "deDE": "[ms]Korlics Schmerz",
     "esES": "[ms]Dolor de Korlic",
@@ -26505,7 +26505,7 @@
   {
     "id": 27611,
     "Key": "ua3",
-    "enUS": "Madawc's Ire",
+    "enUS": "•Madawc's Ire (3a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "馬道克的怒火",
     "deDE": "[ms]Madawcs Zorn",
     "esES": "[fs]Ira de Madawc",
@@ -26522,7 +26522,7 @@
   {
     "id": 27612,
     "Key": "ua4",
-    "enUS": "Bul-Kathos' Nightmare",
+    "enUS": "•Bul-Kathos' Nightmare (4a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "布爾凱索的夢魘",
     "deDE": "[ms]Bul-Kathos' Alptraum",
     "esES": "[fs]Pesadilla de Bul-Kathos",
@@ -26539,7 +26539,7 @@
   {
     "id": 27613,
     "Key": "ua5",
-    "enUS": "Worusk's End",
+    "enUS": "•Worusk's End (5a)•\n\nÿc;•Pick Up•ÿc0\n",
     "zhTW": "沃魯斯克的終結",
     "deDE": "[ns]Worsuks Ende",
     "esES": "[ms]Fin de Worusk",
