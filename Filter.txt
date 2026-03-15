@@ -118,7 +118,7 @@
         },
         {
             "name": "START - Blue rings amus circlets",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "show",
             "filterEtherealSocketed": false,
             "equipmentRarity": [
@@ -126,6 +126,7 @@
                 "magic"
             ],
             "equipmentCategory": [
+                "rings",
                 "circl",
                 "amule"
             ]
@@ -167,23 +168,57 @@
             ],
             "itemCode": [
                 "hp2",
+                "gsw",
+                "hp5",
+                "gfv",
+                "gfw",
+                "mp1",
+                "skf",
+                "gfr",
+                "gfy",
+                "mp5",
+                "vps",
                 "isc",
+                "gfb",
+                "hp4",
+                "gsv",
+                "gcg",
+                "mp2",
+                "hp3",
+                "gfg",
+                "mp4",
+                "hp1",
+                "gsb",
+                "rvs",
+                "gcb",
+                "gcv",
+                "gsg",
                 "mp3",
                 "wms",
-                "mp4",
                 "tsc",
-                "hp5",
-                "hp1",
-                "hp4",
-                "rvs",
-                "mp1",
-                "mp5",
-                "mp2",
-                "yps",
-                "vps",
-                "hp3"
+                "gcy",
+                "gsr",
+                "gsy",
+                "sku",
+                "gcw",
+                "skc",
+                "gcr",
+                "yps"
             ],
             "goldFilterValue": 1800
+        },
+        {
+            "name": "EXTRA - Blue amulets",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare",
+                "magic"
+            ],
+            "equipmentCategory": [
+                "amule"
+            ]
         },
         {
             "name": "EXTRA - White",
@@ -225,7 +260,8 @@
             "filterEtherealSocketed": true,
             "equipmentCategory": [
                 "barbh",
-                "druid"
+                "druid",
+                "warlo"
             ],
             "equipmentItemCode": [
                 "7bw",
@@ -269,6 +305,7 @@
             ],
             "equipmentItemCode": [
                 "am5",
+                "uit",
                 "9ja",
                 "amf",
                 "ama",
@@ -287,9 +324,6 @@
             "equipmentCategory": [
                 "jewel",
                 "charm"
-            ],
-            "equipmentItemCode": [
-                "uit"
             ]
         },
         {
@@ -754,8 +788,7 @@
                 "normal"
             ],
             "equipmentCategory": [
-                "palad",
-                "warlo"
+                "palad"
             ],
             "equipmentItemCode": [
                 "kri",
@@ -777,9 +810,6 @@
             "enabled": true,
             "ruleType": "show",
             "filterEtherealSocketed": true,
-            "equipmentCategory": [
-                "warlo"
-            ],
             "equipmentItemCode": [
                 "scy",
                 "pa7",
@@ -852,7 +882,6 @@
             "equipmentCategory": [
                 "acce",
                 "glove",
-                "warlo",
                 "boots",
                 "circl",
                 "belts"
