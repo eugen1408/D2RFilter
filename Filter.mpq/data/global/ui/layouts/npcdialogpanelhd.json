@@ -32,9 +32,9 @@
                 "h": "center"
             },
             "options": {
-                "lineWrap": 0,
+                "lineWrap": false,
                 "newlineHandling": "standard"
-            }
+            },
         }
     },
     "children": [
@@ -48,12 +48,12 @@
             "fields": {
                 "filename": "PANEL/TooltipBorder/TooltipBorder",
                 "backgroundColor": [
-                    0,
-                    0,
-                    0,
-                    0.7
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.70
                 ],
-                "tileScale": 1
+                "tileScale": 1.0
             }
         },
         {
@@ -72,9 +72,9 @@
                                 "v": "center"
                             },
                             "options": {
-                                "lineWrap": 0,
+                                "lineWrap": false,
                                 "newlineHandling": "standard"
-                            }
+                            },
                         }
                     }
                 },
@@ -98,18 +98,18 @@
                     "type": "ListWidget",
                     "name": "ListTemplate",
                     "fields": {
-                        "isHoverList": 1,
+                        "isHoverList": true,
                         "direction": "vertical",
                         "itemSelectionMessage": "DialogMessage:ListItemClicked",
                         "selectorName": "Selector",
-                        "selectionChangedSound": "cursor_pass"
+                        "selectionChangedSound": "cursor_pass",
                     },
                     "children": [
                         {
                             "type": "HoverListItemWidget",
                             "name": "ItemTemplate",
                             "fields": {
-                                "focusOnMouseOver": 1,
+                                "focusOnMouseOver": true,
                                 "baseColor": "$FontColorWhite",
                                 "hoveredColor": "$FontColorBlue"
                             },
@@ -123,18 +123,18 @@
                                             "alignment": {
                                                 "h": "center",
                                                 "v": "center"
-                                            }
-                                        }
+                                            },
+                                        },
                                     }
-                                }
+                                },
                             ]
                         },
                         {
                             "type": "Widget",
-                            "name": "Selector"
-                        }
+                            "name": "Selector",
+                        },
                     ]
-                }
+                },
             ]
         }
     ]
