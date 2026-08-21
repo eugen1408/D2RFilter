@@ -861,6 +861,7 @@
         "width": 370,
         "height": 102
     },
+    "ChronicleLeftCursorPadding": 40,
     // Options hover indicators
     "OptionsSliderFocusIndicatorFilename": "Controller/HoverImages/Slider_Hover",
     "OptionsDropDownFocusIndicatorFilename": "Controller/HoverImages/DropDown_Hover",
