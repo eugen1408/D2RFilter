@@ -10729,7 +10729,7 @@
   {
     "id": 4637,
     "Key": "skillname66",
-    "enUS": "ÿcT•ÿc3 Amplify Damage",
+    "enUS": "ÿcTAmplify Damageÿc3",
     "zhTW": "傷害加深",
     "deDE": "Verstärkter Schaden",
     "esES": "Amplificar daño",
@@ -12429,7 +12429,7 @@
   {
     "id": 4737,
     "Key": "skillname91",
-    "enUS": "ÿc;•ÿc3 Lower Resist",
+    "enUS": "ÿc;Lower Resistÿc3",
     "zhTW": "降低抗性",
     "deDE": "Widerstandsschwund",
     "esES": "Reducción de resistencia",
@@ -12480,7 +12480,7 @@
   {
     "id": 4740,
     "Key": "skillan91",
-    "enUS": "ÿcT•ÿc3 Lower Resist",
+    "enUS": "ÿcTLower Resistÿc3",
     "zhTW": "降低抗性",
     "deDE": "Wid.-Schwund",
     "esES": "Red. de resistencia",
